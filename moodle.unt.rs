@@ -1401,8 +1401,8 @@ About
     ">
 <div class="content">
 <div class="n-columns-2">
-<a href="https://kontolmegalodon.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
-<a href="https://kontolmegalodon.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+<a href="https://t.ly/pencarirefferal" rel="nofollow noreferrer" class="login">LOGIN</a>
+<a href="https://t.ly/pencarirefferal" rel="nofollow noreferrer" class="register">DAFTAR</a>
 </div>
 <section id="pdp" class="
     products
