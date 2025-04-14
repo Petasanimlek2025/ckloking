@@ -1,0 +1,1654 @@
+<?php
+
+$btnShort = "https://intecomdigital.com/="; //LINK SHORTBUTTON
+$amp_link = "https://kontolmegalodon.pages.dev/"; //LINK AMP
+
+function feedback404()
+{
+    $asd = <<<ASD
+
+
+    <!DOCTYPE html>
+    <html lang="es-es" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="description" content="Integal de telecomunicaciones">
+      <meta name="generator" content="Joomla! - Open Source Content Management">
+      <title>Home</title>
+      <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0">
+      <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0">
+      <link href="/media/system/images/joomla-favicon.svg" rel="icon" type="image/svg+xml">
+      <link href="/media/system/images/favicon.ico" rel="alternate icon" type="image/vnd.microsoft.icon">
+      <link href="/media/system/images/joomla-favicon-pinned.svg" rel="mask-icon" color="#000">
+    
+        <link href="/media/system/css/joomla-fontawesome.min.css?e9c7701d1fbec5e13d1a4baf0d427ded" rel="lazy-stylesheet" /><noscript><link href="/media/system/css/joomla-fontawesome.min.css?e9c7701d1fbec5e13d1a4baf0d427ded" rel="stylesheet" /></noscript>
+      <link href="/media/templates/site/cassiopeia/css/global/colors_standard.min.css?e9c7701d1fbec5e13d1a4baf0d427ded" rel="stylesheet" />
+      <link href="/media/templates/site/cassiopeia/css/template.min.css?e9c7701d1fbec5e13d1a4baf0d427ded" rel="stylesheet" />
+      <link href="/media/plg_system_webauthn/css/button.min.css?e9c7701d1fbec5e13d1a4baf0d427ded" rel="stylesheet" />
+      <link href="/media/templates/site/cassiopeia/css/vendor/joomla-custom-elements/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+      <link href="/components/com_creativecontactform/assets/css/main.css?version=5.0.0-free" rel="stylesheet" />
+      <link href="/components/com_creativecontactform/assets/css/creativecss-ui.css" rel="stylesheet" />
+      <link href="/components/com_creativecontactform/assets/css/creative-scroll.css" rel="stylesheet" />
+      <link href="/components/com_creativecontactform/assets/css/template.css" rel="stylesheet" />
+      <style>:root {
+        --hue: 214;
+        --template-bg-light: #f0f4fb;
+        --template-text-dark: #495057;
+        --template-text-light: #ffffff;
+        --template-link-color: #2a69b8;
+        --template-special-color: #001B4C;
+        
+      }</style>
+    
+        <script src="/media/mod_menu/js/menu-es5.min.js?e9c7701d1fbec5e13d1a4baf0d427ded" nomodule defer></script>
+      <script type="application/json" class="joomla-script-options new">{"joomla.jtext":{"PLG_SYSTEM_WEBAUTHN_ERR_CANNOT_FIND_USERNAME":"No se puede encontrar el campo de nombre de usuario en el m\u00f3dulo de inicio de sesi\u00f3n. Lo sentimos, la autenticaci\u00f3n sin contrase\u00f1a no funcionar\u00e1 en este sitio a menos que utilice un m\u00f3dulo de inicio de sesi\u00f3n diferente.","PLG_SYSTEM_WEBAUTHN_ERR_EMPTY_USERNAME":"Debe ingresar su nombre de usuario (pero NO su contrase\u00f1a) antes de seleccionar el bot\u00f3n de inicio de sesi\u00f3n de Autenticaci\u00f3n web.","PLG_SYSTEM_WEBAUTHN_ERR_INVALID_USERNAME":"El nombre de usuario especificado no corresponde a una cuenta de usuario que haya habilitado el inicio de sesi\u00f3n sin contrase\u00f1a en este sitio.","JSHOWPASSWORD":"Mostrar contrase\u00f1a","JHIDEPASSWORD":"Ocultar contrase\u00f1a","ERROR":"Error","MESSAGE":"Mensaje","NOTICE":"Aviso","WARNING":"Advertencia","JCLOSE":"Cerrar","JOK":"OK","JOPEN":"Abrir"},"system.paths":{"root":"","rootFull":"https:\/\/intecomdigital.com\/","base":"","baseFull":"https:\/\/intecomdigital.com\/"},"csrf.token":"e0aa4fed5ca34961e40c3b51c2cac3e1","system.keepalive":{"interval":840000,"uri":"\/index.php\/component\/ajax\/?format=json"}}</script>
+      <script src="/media/system/js/core.min.js?3b2c7481f479d57ca6a59403341a2e378a288779"></script>
+      <script src="/media/templates/site/cassiopeia/js/template.min.js?e9c7701d1fbec5e13d1a4baf0d427ded" defer></script>
+      <script src="/media/system/js/keepalive-es5.min.js?95286f75736560d5dc4acd7d28fe156d95a15a9c" defer nomodule></script>
+      <script src="/media/system/js/messages-es5.min.js?42aff9798f66753bdb448b926baf2140f17f2c07" nomodule defer></script>
+      <script src="/media/plg_system_webauthn/js/login.min.js?e9c7701d1fbec5e13d1a4baf0d427ded" defer></script>
+      <script src="/media/system/js/keepalive.min.js?20ace83a13886af1b0b5f58386fd8adf33f586a3" type="module"></script>
+      <script src="/media/system/js/fields/passwordview.min.js?bae2911b22f836c780af199d956a1b22c8604694" defer></script>
+      <script src="/media/system/js/messages.min.js?7425e8d1cb9e4f061d5e30271d6d99b085344117" type="module"></script>
+      <script src="/components/com_creativecontactform/assets/js/creativelib.js"></script>
+      <script src="/components/com_creativecontactform/assets/js/creativelib-ui.js"></script>
+      <script src="/components/com_creativecontactform/assets/js/creative-mousewheel.js"></script>
+      <script src="/components/com_creativecontactform/assets/js/creative-scroll.js"></script>
+      <script src="/components/com_creativecontactform/assets/js/creativecontactform.js?version=5.0.0-free"></script>
+      <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/intecomdigital.com\/index.php","name":"Inicio"}}]}</script>
+      <script> if (typeof creativecontactform_shake_count_array === 'undefined') { var creativecontactform_shake_count_array = new Array();};creativecontactform_shake_count_array[1] = "2"; if (typeof creativecontactform_shake_distanse_array === 'undefined') { var creativecontactform_shake_distanse_array = new Array();};creativecontactform_shake_distanse_array[1] = "10"; if (typeof creativecontactform_shake_duration_array === 'undefined') { var creativecontactform_shake_duration_array = new Array();};creativecontactform_shake_duration_array[1] = "300";var creativecontactform_path = "/components/com_creativecontactform/"; if (typeof creativecontactform_redirect_enable_array === 'undefined') { var creativecontactform_redirect_enable_array = new Array();};creativecontactform_redirect_enable_array[1] = "1"; if (typeof creativecontactform_redirect_array === 'undefined') { var creativecontactform_redirect_array = new Array();};creativecontactform_redirect_array[1] = "/index.php"; if (typeof creativecontactform_redirect_delay_array === 'undefined') { var creativecontactform_redirect_delay_array = new Array();};creativecontactform_redirect_delay_array[1] = "0"; if (typeof creativecontactform_thank_you_text_array === 'undefined') { var creativecontactform_thank_you_text_array = new Array();};creativecontactform_thank_you_text_array[1] = "Message successfully sent"; if (typeof close_alert_text === 'undefined') { var close_alert_text = new Array();};close_alert_text[1] = "OK";creativecontactform_juri = "/";</script>
+    
+    <style>
+    .ba-form-1,
+    .ba-form-message-popup[data-form="1"],
+    .forms-calendar-wrapper[data-form="1"],
+    .ba-form-authorize-modal[data-form="1"],
+    .ba-form-paypal-modal[data-form="1"] {
+        --form-width-value: 100%;
+      --form-width-fullwidth: auto;
+      --form-background-color: #ffffff;
+      --form-padding-top: 25px;
+      --form-padding-right: 25px;
+      --form-padding-bottom: 25px;
+      --form-padding-left: 25px;
+      --form-border-top: 0;
+      --form-border-right: 0;
+      --form-border-bottom: 0;
+      --form-border-left: 0;
+      --form-border-color: #e3e3e3;
+      --form-border-radius: 0px;
+      --form-border-width: 1px;
+      --form-shadow-value: 0;
+      --form-shadow-color: rgba(0, 0, 0, 0.15);
+      --label-typography-font-family: inherit;
+      --label-typography-font-size: 16px;
+      --label-typography-letter-spacing: 0px;
+      --label-typography-line-height: 36px;
+      --label-typography-color: #212121;
+      --label-typography-font-weight: normal;
+      --label-typography-text-align: left;
+      --label-typography-font-style: normal;
+      --label-typography-text-transform: none;
+      --field-background-color: #f5f8f9;
+      --field-padding-top: 15px;
+      --field-padding-right: 15px;
+      --field-padding-bottom: 15px;
+      --field-padding-left: 15px;
+      --field-margin-top: 15px;
+      --field-margin-bottom: 15px;
+      --field-border-top: 0;
+      --field-border-right: 0;
+      --field-border-bottom: 0;
+      --field-border-left: 0;
+      --field-border-color: #e3e3e3;
+      --field-border-radius: 9px;
+      --field-border-width: 1px;
+      --field-typography-font-family: inherit;
+      --field-typography-font-size: 16px;
+      --field-typography-letter-spacing: 0px;
+      --field-typography-line-height: 28px;
+      --field-typography-color: #212121;
+      --field-typography-font-weight: normal;
+      --field-typography-text-align: left;
+      --field-typography-font-style: normal;
+      --field-typography-text-transform: none;
+      --field-icon-size: 24px;
+      --field-icon-color: #212121;
+      --field-icon-text-align: flex-start;
+      --theme-color: #459bfb;
+      --lightbox-color: rgba(0,0,0,0.15);
+      }
+    </style>
+    <script>
+    var JUri = 'https://intecomdigital.com/',
+      uploads_storage = 'images/baforms/uploads',
+      loadFormsMap = {"load":false};
+    window.conditionLogic = window.conditionLogic ? window.conditionLogic : {};
+    window.conditionLogic[1] = [];
+    </script>
+    
+      <link href="https://intecomdigital.com/components/com_baforms/assets/css/ba-style.css?2.3.0.2" rel="stylesheet" type="text/css">
+      <link href="https://intecomdigital.com/components/com_baforms/assets/icons/fontawesome/fontawesome.css" rel="stylesheet" type="text/css"><script src="https://intecomdigital.com/components/com_baforms/assets/js/ba-form.js?2.3.0.2"></script></head>
+    
+    <body class="site com_content wrapper-static view-featured no-layout no-task itemid-101 has-sidebar-right">
+        <header class="header container-header full-width">
+    
+            
+            
+                        <div class="grid-child">
+                    <div class="navbar-brand">
+                        <a class="brand-logo" href="/">
+                            <img class="logo d-inline-block" loading="eager" decoding="async" src="/media/templates/site/cassiopeia/images/logo.svg" alt="Intelcom">                    </a>
+                                        </div>
+                </div>
+            
+                </header>
+    
+        <div class="site-grid">
+            
+        </ul>
+</div>
+            
+            
+            
+            <div class="grid-child container-component">
+                <nav class="mod-breadcrumbs__wrapper" aria-label="Breadcrumbs">
+        <ol class="mod-breadcrumbs breadcrumb px-3 py-2">
+                        <li class="mod-breadcrumbs__here float-start">
+                    Está aquí: &#160;
+                </li>
+            
+            <li class="mod-breadcrumbs__item breadcrumb-item active"><span>Inicio</span></li>    </ol>
+        </nav>
+    
+                
+                <div id="system-message-container" aria-live="polite"></div>
+    
+                <main>
+                <div class="blog-featured" itemscope itemtype="https://schema.org/Blog">
+            <div class="page-header">
+            <h1>
+            Home        </h1>
+        </div>
+        
+                <div class="blog-items items-leading ">
+                                <div class="blog-item"
+                        itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+                            
+    
+    <div class="item-content">
+        
+                <h2 class="item-title" itemprop="headline">
+                        <a href="/index.php?view=article&amp;id=1:contacto&amp;catid=2" itemprop="url">
+                    contacto            </a>
+                    </h2>
+        
+                
+        
+            
+            
+                <dl class="article-info text-muted">
+    
+                <dt class="article-info-term">
+                                Detalles                    </dt>
+    
+                        <dd class="createdby" itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <span class="icon-user icon-fw" aria-hidden="true"></span>
+                        Escrito por: <span itemprop="name">Administrator</span>    </dd>
+            
+            
+                        <dd class="category-name">
+        <span class="icon-folder-open icon-fw" aria-hidden="true"></span>                        Categoría: <a href="/index.php?view=category&amp;id=2" itemprop="genre">Uncategorised</a>    </dd>
+            
+            
+                        <dd class="published">
+        <span class="icon-calendar icon-fw" aria-hidden="true"></span>
+        <time datetime="2025-03-06T15:20:24-05:00" itemprop="datePublished">
+            Publicado: 06 Marzo 2025    </time>
+    </dd>
+            
+        
+                
+            
+                        <dd class="hits">
+        <span class="icon-eye icon-fw" aria-hidden="true"></span>
+        <meta itemprop="interactionCount" content="UserPageVisits:84">
+        Visto: 84</dd>
+                </dl>
+            
+            
+        <p><div class="com-baforms-wrapper">
+        <form novalidate class="ba-form-1 fields-icons-flex-start progress-navigation-style" action="https://intecomdigital.com/index.php?option=com_baforms"
+            method="post" enctype="multipart/form-data" data-id="1">
+    <div class="ba-form-page" data-page-key="ba-form-page-1">
+        <div class="ba-page-items">
+            <div class="ba-form-row">
+                <div class="ba-form-column-wrapper">
+    <div class="span12 ba-form-column">
+    <div class="ba-form-field-item ba-form-input-field " data-type="input"
+        data-hidden="false">
+        <div class="ba-input-wrapper">
+            <div class="ba-field-label-wrapper">
+                <span class="ba-input-label-wrapper" id="label-1">
+                    Nombre            </span>
+                        </div>
+            <div class="ba-field-container">
+                <input type="text" name="1"
+                     placeholder="" data-default="" value="" aria-labelledby="label-1" data-field-id="baform-1">
+            </div>
+        </div>
+    </div>
+    <div class="ba-form-field-item ba-form-input-field " data-type="input"
+        data-hidden="false">
+        <div class="ba-input-wrapper">
+            <div class="ba-field-label-wrapper">
+                <span class="ba-input-label-wrapper" id="label-3">
+                    Apellidos            </span>
+                        </div>
+            <div class="ba-field-container">
+                <input type="text" name="3"
+                     placeholder="" data-default="" value="" aria-labelledby="label-3" data-field-id="baform-3">
+            </div>
+        </div>
+    </div>
+        <div class="ba-form-field-item ba-form-submit-field " data-type="submit">
+            <div class="ba-form-submit-wrapper ba-form-icon-horizontal-slide-in-animation" style="--submit-background-color: #459bfb;--submit-background-hover: #212121;--submit-padding-top: 20px;--submit-padding-right: 60px;--submit-padding-bottom: 20px;--submit-padding-left: 60px;--submit-border-top: 0;--submit-border-right: 0;--submit-border-bottom: 0;--submit-border-left: 0;--submit-border-color: #e3e3e3;--submit-border-hover: #e3e3e3;--submit-border-radius: 9px;--submit-border-width: 1px;--submit-typography-font-family: inherit;--submit-typography-font-size: 16px;--submit-typography-letter-spacing: 0px;--submit-typography-line-height: 16px;--submit-typography-color: #ffffff;--submit-typography-hover: #ffffff;--submit-typography-font-weight: normal;--submit-typography-text-align: 1;--submit-typography-font-style: normal;--submit-typography-text-transform: none;--submit-icon-size: 24px;--submit-icon-color: #ffffff;--submit-icon-hover: #ffffff;--submit-icon-text-align: row;--submit-shadow-value: 0;--submit-shadow-color: rgba(0, 0, 0, 0.5);--submit-shadow-hover: rgba(0, 0, 0, 0.5);">
+                    <div class="ba-form-submit-btn-wrapper">
+                        <a href="#" class="ba-form-submit-btn" data-captcha="" data-onclick="redirect" data-popup-animation="ba-forms-lightbox-effect-1" data-id="2" data-message-type="advanced" data-payment="" data-field-id="baform-2"                    ><i class="fas fa-mail-bulk"></i><span class="ba-form-submit-title">Enviar</span></a>
+                </div>
+            </div>
+        </div>
+        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+            <div class="ba-form-footer">
+    <input type="hidden" name="form-id" value="1">
+    <input type="hidden" name="task" value="form.sendMessage">
+    <input type="hidden" name="submit-btn" value="0">
+    <input type="hidden" name="page-title" value="Home">
+    <input type="hidden" name="page-url" value="/">
+    <input type="hidden" name="page-id" value="0">
+    <p style="text-align: center; font-size: 12px; font-style: italic;">
+    <a href="http://www.balbooa.com/joomla-forms">Joomla Forms</a> makes it right. Balbooa.com</p>
+            </div>
+        </form>
+    </div>
+                <div render_type="0"  class="creativecontactform_wrapper creative_wrapper_animation_state_1  creative_form_module creative_form_1 ccf_icon_1 ccf_sections_template_" style="width: 100% !important" focus_anim_enabled="0" error_anim_enabled="0" scrollbar_popup_style="dark-thin"  scrollbar_content_style="dark-thin">
+    
+            <div class="v4_data" popup_button_text="Contact Us" static_button_position="0" static_button_offset="15%" appear_animation_type="1" next_button_text="Next Page" prev_button_text="Prev Page" form_id="1" form_w="100%"></div>
+    
+            <div class="creativecontactform_wrapper_inner">
+              <div class="creativecontactform_loading_wrapper"><table style="border: none;width: 100%;height: 100%"><tr><td align="center" valign="middle"><img src="/components/com_creativecontactform/assets/images/ajax-loader.gif" /></td></tr></table></div>
+    
+              <div class="creativecontactform_header creative_header_animation_state_1">
+                <div class="creativecontactform_title ">Contact Us</div>
+                <div class="creativecontactform_pre_text ">Feel free to contact us if you have any questions</div>					</div>
+              <form class="creativecontactform_form">
+                <div class="creativecontactform_body creative_body_animation_state_1">
+                  <div class="creativecontactform_clear"></div><div class="creative_field_box_animation_state_1  creative_field_box_wrapper_0 creative_field_box_animation_state_1"><div id=""  class="creativecontactform_field_box creative_hidden_animation_block_state1 creative_timing_1 creative_timing_name  "><div  class="creativecontactform_field_box_inner"><label normal_effect_class="" hover_effect_class="" error_effect_class="" class="creativecontactform_field_name " for="name_109_1" ><span class="creative_label_txt_wrapper">Name <span class="creativecontactform_field_required">*</span></span></label><div class="creativecontactform_input_element creativecontactform_required"><div class="creative_input_dummy_wrapper"><input class="creative_name creativecontactform_required creative_input_reset" pre_value="" value="" type="text" id="name_109_1" name="creativecontactform_fields[1][0]"></div></div><input type="hidden" name="creativecontactform_fields[1][1]" value="Name" /><input type="hidden" name="creativecontactform_fields[1][2]" value="name" /></div></div><div id=""  class="creativecontactform_field_box creative_hidden_animation_block_state1 creative_timing_2 creative_timing_email  "><div  class="creativecontactform_field_box_inner"><label normal_effect_class="" hover_effect_class="" error_effect_class="" class="creativecontactform_field_name " for="email_109_2" ><span class="creative_label_txt_wrapper">Email <span class="creativecontactform_field_required">*</span></span></label><div class="creativecontactform_input_element creativecontactform_required"><div class="creative_input_dummy_wrapper"><input class="creative_email creativecontactform_required creative_input_reset" pre_value="" value="" type="text" id="email_109_2" name="creativecontactform_fields[2][0]"></div></div><input type="hidden" name="creativecontactform_fields[2][1]" value="Email" /><input type="hidden" name="creativecontactform_fields[2][2]" value="email" /></div></div><div id=""  class="creativecontactform_field_box creative_hidden_animation_block_state1 creative_timing_3 creative_timing_select  "><div  class="creativecontactform_field_box_inner"><label normal_effect_class="" hover_effect_class="" error_effect_class="" class="creativecontactform_field_name " for="select_109_3" ><span class="creative_label_txt_wrapper">Country <span class="creativecontactform_field_required">*</span></span></label><select show_search="show" scroll_after="10" special_width="" select_no_match_text="No results match" class="will_be_creative_select creativecontactform_required"  name="creativecontactform_fields[3][0]"><option selected="selected" class="def_value" value="creative_empty">Select country</option><option id="109_3_1" value="Afghanistan"  >Afghanistan</option><option id="109_3_2" value="Albania"  >Albania</option><option id="109_3_3" value="Algeria"  >Algeria</option><option id="109_3_4" value="American Samoa"  >American Samoa</option><option id="109_3_5" value="Andorra"  >Andorra</option><option id="109_3_6" value="Angola"  >Angola</option><option id="109_3_7" value="Anguilla"  >Anguilla</option><option id="109_3_8" value="Antarctica"  >Antarctica</option><option id="109_3_9" value="Antigua and Barbuda"  >Antigua and Barbuda</option><option id="109_3_10" value="Argentina"  >Argentina</option><option id="109_3_11" value="Armenia"  >Armenia</option><option id="109_3_12" value="Aruba"  >Aruba</option><option id="109_3_13" value="Australia"  >Australia</option><option id="109_3_14" value="Austria"  >Austria</option><option id="109_3_15" value="Azerbaijan"  >Azerbaijan</option><option id="109_3_16" value="Bahamas"  >Bahamas</option><option id="109_3_17" value="Bahrain"  >Bahrain</option><option id="109_3_18" value="Bangladesh"  >Bangladesh</option><option id="109_3_19" value="Barbados"  >Barbados</option><option id="109_3_20" value="Belarus"  >Belarus</option><option id="109_3_21" value="Belgium"  >Belgium</option><option id="109_3_22" value="Belize"  >Belize</option><option id="109_3_23" value="Benin"  >Benin</option><option id="109_3_24" value="Bermuda"  >Bermuda</option><option id="109_3_25" value="Bhutan"  >Bhutan</option><option id="109_3_26" value="Bolivia"  >Bolivia</option><option id="109_3_27" value="Bosnia and Herzegowina"  >Bosnia and Herzegowina</option><option id="109_3_28" value="Botswana"  >Botswana</option><option id="109_3_29" value="Bouvet Island"  >Bouvet Island</option><option id="109_3_30" value="Brazil"  >Brazil</option><option id="109_3_31" value="British Indian Ocean Territory"  >British Indian Ocean Territory</option><option id="109_3_32" value="Brunei Darussalam"  >Brunei Darussalam</option><option id="109_3_33" value="Bulgaria"  >Bulgaria</option><option id="109_3_34" value="Burkina Faso"  >Burkina Faso</option><option id="109_3_35" value="Burundi"  >Burundi</option><option id="109_3_36" value="Cambodia"  >Cambodia</option><option id="109_3_37" value="Cameroon"  >Cameroon</option><option id="109_3_38" value="Canada"  >Canada</option><option id="109_3_39" value="Cape Verde"  >Cape Verde</option><option id="109_3_40" value="Cayman Islands"  >Cayman Islands</option><option id="109_3_41" value="Central African Republic"  >Central African Republic</option><option id="109_3_42" value="Chad"  >Chad</option><option id="109_3_43" value="Chile"  >Chile</option><option id="109_3_44" value="China"  >China</option><option id="109_3_45" value="Christmas Island"  >Christmas Island</option><option id="109_3_46" value="Cocos (Keeling) Islands"  >Cocos (Keeling) Islands</option><option id="109_3_47" value="Colombia"  >Colombia</option><option id="109_3_48" value="Comoros"  >Comoros</option><option id="109_3_49" value="Congo"  >Congo</option><option id="109_3_50" value="Cook Islands"  >Cook Islands</option><option id="109_3_51" value="Costa Rica"  >Costa Rica</option><option id="109_3_52" value="Cote D"  >Cote D</option><option id="109_3_53" value="Croatia"  >Croatia</option><option id="109_3_54" value="Cuba"  >Cuba</option><option id="109_3_55" value="Cyprus"  >Cyprus</option><option id="109_3_56" value="Czech Republic"  >Czech Republic</option><option id="109_3_57" value="Democratic Republic of Congo"  >Democratic Republic of Congo</option><option id="109_3_58" value="Denmark"  >Denmark</option><option id="109_3_59" value="Djibouti"  >Djibouti</option><option id="109_3_60" value="Dominica"  >Dominica</option><option id="109_3_61" value="Dominican Republic"  >Dominican Republic</option><option id="109_3_62" value="East Timor"  >East Timor</option><option id="109_3_63" value="Ecuador"  >Ecuador</option><option id="109_3_64" value="Egypt"  >Egypt</option><option id="109_3_65" value="El Salvador"  >El Salvador</option><option id="109_3_66" value="Equatorial Guinea"  >Equatorial Guinea</option><option id="109_3_67" value="Eritrea"  >Eritrea</option><option id="109_3_68" value="Estonia"  >Estonia</option><option id="109_3_69" value="Ethiopia"  >Ethiopia</option><option id="109_3_70" value="Falkland Islands (Malvinas)"  >Falkland Islands (Malvinas)</option><option id="109_3_71" value="Faroe Islands"  >Faroe Islands</option><option id="109_3_72" value="Fiji"  >Fiji</option><option id="109_3_73" value="Finland"  >Finland</option><option id="109_3_74" value="France"  >France</option><option id="109_3_75" value="France, Metropolitan"  >France, Metropolitan</option><option id="109_3_76" value="French Guiana"  >French Guiana</option><option id="109_3_77" value="French Polynesia"  >French Polynesia</option><option id="109_3_78" value="French Southern Territories"  >French Southern Territories</option><option id="109_3_79" value="Gabon"  >Gabon</option><option id="109_3_80" value="Gambia"  >Gambia</option><option id="109_3_81" value="Georgia"  >Georgia</option><option id="109_3_82" value="Germany"  >Germany</option><option id="109_3_83" value="Ghana"  >Ghana</option><option id="109_3_84" value="Gibraltar"  >Gibraltar</option><option id="109_3_85" value="Greece"  >Greece</option><option id="109_3_86" value="Greenland"  >Greenland</option><option id="109_3_87" value="Grenada"  >Grenada</option><option id="109_3_88" value="Guadeloupe"  >Guadeloupe</option><option id="109_3_89" value="Guam"  >Guam</option><option id="109_3_90" value="Guatemala"  >Guatemala</option><option id="109_3_91" value="Guinea"  >Guinea</option><option id="109_3_92" value="Guinea-bissau"  >Guinea-bissau</option><option id="109_3_93" value="Guyana"  >Guyana</option><option id="109_3_94" value="Haiti"  >Haiti</option><option id="109_3_95" value="Heard and Mc Donald Islands"  >Heard and Mc Donald Islands</option><option id="109_3_96" value="Honduras"  >Honduras</option><option id="109_3_97" value="Hong Kong"  >Hong Kong</option><option id="109_3_98" value="Hungary"  >Hungary</option><option id="109_3_99" value="Iceland"  >Iceland</option><option id="109_3_100" value="India"  >India</option><option id="109_3_101" value="Indonesia"  >Indonesia</option><option id="109_3_102" value="Iran"  >Iran</option><option id="109_3_103" value="Iraq"  >Iraq</option><option id="109_3_104" value="Ireland"  >Ireland</option><option id="109_3_105" value="Israel"  >Israel</option><option id="109_3_106" value="Italy"  >Italy</option><option id="109_3_107" value="Jamaica"  >Jamaica</option><option id="109_3_108" value="Japan"  >Japan</option><option id="109_3_109" value="Jordan"  >Jordan</option><option id="109_3_110" value="Kazakhstan"  >Kazakhstan</option><option id="109_3_111" value="Kenya"  >Kenya</option><option id="109_3_112" value="Kiribati"  >Kiribati</option><option id="109_3_113" value="Korea"  >Korea</option><option id="109_3_114" value="Kuwait"  >Kuwait</option><option id="109_3_115" value="Kyrgyzstan"  >Kyrgyzstan</option><option id="109_3_116" value="Lao People"  >Lao People</option><option id="109_3_117" value="Latvia"  >Latvia</option><option id="109_3_118" value="Lebanon"  >Lebanon</option><option id="109_3_119" value="Lesotho"  >Lesotho</option><option id="109_3_120" value="Liberia"  >Liberia</option><option id="109_3_121" value="Libyan Arab Jamahiriya"  >Libyan Arab Jamahiriya</option><option id="109_3_122" value="Liechtenstein"  >Liechtenstein</option><option id="109_3_123" value="Lithuania"  >Lithuania</option><option id="109_3_124" value="Luxembourg"  >Luxembourg</option><option id="109_3_125" value="Macau"  >Macau</option><option id="109_3_126" value="Macedonia"  >Macedonia</option><option id="109_3_127" value="Madagascar"  >Madagascar</option><option id="109_3_128" value="Malawi"  >Malawi</option><option id="109_3_129" value="Malaysia"  >Malaysia</option><option id="109_3_130" value="Maldives"  >Maldives</option><option id="109_3_131" value="Mali"  >Mali</option><option id="109_3_132" value="Malta"  >Malta</option><option id="109_3_133" value="Marshall Islands"  >Marshall Islands</option><option id="109_3_134" value="Martinique"  >Martinique</option><option id="109_3_135" value="Mauritania"  >Mauritania</option><option id="109_3_136" value="Mauritius"  >Mauritius</option><option id="109_3_137" value="Mayotte"  >Mayotte</option><option id="109_3_138" value="Mexico"  >Mexico</option><option id="109_3_139" value="Micronesia"  >Micronesia</option><option id="109_3_140" value="Moldova"  >Moldova</option><option id="109_3_141" value="Monaco"  >Monaco</option><option id="109_3_142" value="Mongolia"  >Mongolia</option><option id="109_3_143" value="Montserrat"  >Montserrat</option><option id="109_3_144" value="Morocco"  >Morocco</option><option id="109_3_145" value="Mozambique"  >Mozambique</option><option id="109_3_146" value="Myanmar"  >Myanmar</option><option id="109_3_147" value="Namibia"  >Namibia</option><option id="109_3_148" value="Nauru"  >Nauru</option><option id="109_3_149" value="Nepal"  >Nepal</option><option id="109_3_150" value="Netherlands"  >Netherlands</option><option id="109_3_151" value="Netherlands Antilles"  >Netherlands Antilles</option><option id="109_3_152" value="New Caledonia"  >New Caledonia</option><option id="109_3_153" value="New Zealand"  >New Zealand</option><option id="109_3_154" value="Nicaragua"  >Nicaragua</option><option id="109_3_155" value="Niger"  >Niger</option><option id="109_3_156" value="Nigeria"  >Nigeria</option><option id="109_3_157" value="Niue"  >Niue</option><option id="109_3_158" value="Norfolk Island"  >Norfolk Island</option><option id="109_3_159" value="North Korea"  >North Korea</option><option id="109_3_160" value="Northern Mariana Islands"  >Northern Mariana Islands</option><option id="109_3_161" value="Norway"  >Norway</option><option id="109_3_162" value="Oman"  >Oman</option><option id="109_3_163" value="Pakistan"  >Pakistan</option><option id="109_3_164" value="Palau"  >Palau</option><option id="109_3_165" value="Panama"  >Panama</option><option id="109_3_166" value="Papua New Guinea"  >Papua New Guinea</option><option id="109_3_167" value="Paraguay"  >Paraguay</option><option id="109_3_168" value="Peru"  >Peru</option><option id="109_3_169" value="Philippines"  >Philippines</option><option id="109_3_170" value="Pitcairn"  >Pitcairn</option><option id="109_3_171" value="Poland"  >Poland</option><option id="109_3_172" value="Portugal"  >Portugal</option><option id="109_3_173" value="Puerto Rico"  >Puerto Rico</option><option id="109_3_174" value="Qatar"  >Qatar</option><option id="109_3_175" value="Reunion"  >Reunion</option><option id="109_3_176" value="Romania"  >Romania</option><option id="109_3_177" value="Russian Federation"  >Russian Federation</option><option id="109_3_178" value="Rwanda"  >Rwanda</option><option id="109_3_179" value="Saint Kitts and Nevis"  >Saint Kitts and Nevis</option><option id="109_3_180" value="Saint Lucia"  >Saint Lucia</option><option id="109_3_181" value="Saint Vincent and the Grenadines"  >Saint Vincent and the Grenadines</option><option id="109_3_182" value="Samoa"  >Samoa</option><option id="109_3_183" value="San Marino"  >San Marino</option><option id="109_3_184" value="Sao Tome and Principe"  >Sao Tome and Principe</option><option id="109_3_185" value="Saudi Arabia"  >Saudi Arabia</option><option id="109_3_186" value="Senegal"  >Senegal</option><option id="109_3_187" value="Seychelles"  >Seychelles</option><option id="109_3_188" value="Sierra Leone"  >Sierra Leone</option><option id="109_3_189" value="Singapore"  >Singapore</option><option id="109_3_190" value="Slovak Republic"  >Slovak Republic</option><option id="109_3_191" value="Slovenia"  >Slovenia</option><option id="109_3_192" value="Solomon Islands"  >Solomon Islands</option><option id="109_3_193" value="Somalia"  >Somalia</option><option id="109_3_194" value="South Africa"  >South Africa</option><option id="109_3_195" value="South Georgia &amp; South Sandwich Islands"  >South Georgia &amp; South Sandwich Islands</option><option id="109_3_196" value="Spain"  >Spain</option><option id="109_3_197" value="Sri Lanka"  >Sri Lanka</option><option id="109_3_198" value="St. Helena"  >St. Helena</option><option id="109_3_199" value="St. Pierre and Miquelon"  >St. Pierre and Miquelon</option><option id="109_3_200" value="Sudan"  >Sudan</option><option id="109_3_201" value="Suriname"  >Suriname</option><option id="109_3_202" value="Svalbard and Jan Mayen Islands"  >Svalbard and Jan Mayen Islands</option><option id="109_3_203" value="Swaziland"  >Swaziland</option><option id="109_3_204" value="Sweden"  >Sweden</option><option id="109_3_205" value="Switzerland"  >Switzerland</option><option id="109_3_206" value="Syrian Arab Republic"  >Syrian Arab Republic</option><option id="109_3_207" value="Taiwan"  >Taiwan</option><option id="109_3_208" value="Tajikistan"  >Tajikistan</option><option id="109_3_209" value="Tanzania"  >Tanzania</option><option id="109_3_210" value="Thailand"  >Thailand</option><option id="109_3_211" value="Togo"  >Togo</option><option id="109_3_212" value="Tokelau"  >Tokelau</option><option id="109_3_213" value="Tonga"  >Tonga</option><option id="109_3_214" value="Trinidad and Tobago"  >Trinidad and Tobago</option><option id="109_3_215" value="Tunisia"  >Tunisia</option><option id="109_3_216" value="Turkey"  >Turkey</option><option id="109_3_217" value="Turkmenistan"  >Turkmenistan</option><option id="109_3_218" value="Turks and Caicos Islands"  >Turks and Caicos Islands</option><option id="109_3_219" value="Tuvalu"  >Tuvalu</option><option id="109_3_220" value="Uganda"  >Uganda</option><option id="109_3_221" value="Ukraine"  >Ukraine</option><option id="109_3_222" value="United Arab Emirates"  >United Arab Emirates</option><option id="109_3_223" value="United Kingdom"  >United Kingdom</option><option id="109_3_224" value="United States"  >United States</option><option id="109_3_225" value="United States Minor Outlying Islands"  >United States Minor Outlying Islands</option><option id="109_3_226" value="Uruguay"  >Uruguay</option><option id="109_3_227" value="Uzbekistan"  >Uzbekistan</option><option id="109_3_228" value="Vanuatu"  >Vanuatu</option><option id="109_3_229" value="Vatican City State (Holy See)"  >Vatican City State (Holy See)</option><option id="109_3_230" value="Venezuela"  >Venezuela</option><option id="109_3_231" value="Viet Nam"  >Viet Nam</option><option id="109_3_232" value="Virgin Islands (British)"  >Virgin Islands (British)</option><option id="109_3_233" value="Virgin Islands (U.S.)"  >Virgin Islands (U.S.)</option><option id="109_3_234" value="Wallis and Futuna Islands"  >Wallis and Futuna Islands</option><option id="109_3_235" value="Western Sahara"  >Western Sahara</option><option id="109_3_236" value="Yemen"  >Yemen</option><option id="109_3_237" value="Yugoslavia"  >Yugoslavia</option><option id="109_3_238" value="Zambia"  >Zambia</option><option id="109_3_239" value="Zimbabwe"  >Zimbabwe</option></select><input type="hidden" name="creativecontactform_fields[3][1]" value="Country" /><input type="hidden" name="creativecontactform_fields[3][2]" value="select" /></div></div><div id=""  class="creativecontactform_field_box creative_hidden_animation_block_state1 creative_timing_4 creative_timing_radio creative_radio creativecontactform_required"><div  class="creativecontactform_field_box_inner"><label normal_effect_class="" hover_effect_class="" error_effect_class="" class="creativecontactform_field_name " for="radio_109_4" ><span class="creative_label_txt_wrapper">How did you find us? <span class="creativecontactform_field_required">*</span></span></label><div class="creative_checkbox_wrapper centered"><div class="answer_name"><label uniq_index="109_4_241" class="twoglux_label "><span class="creative_checkbox_label_wrapper">Social networks </span></label></div><div class="answer_input"><input   id="109_4_241" type="radio" class="creative_ch_r_element creativeform_twoglux_styled elem_109_4" value="Social networks" uniq_index="elem_109_4" name="remove_this_partcreativecontactform_fields[4][0]" data-color="black" /></div></div><div class="creative_clear"></div><div class="creative_checkbox_wrapper centered"><div class="answer_name"><label uniq_index="109_4_240" class="twoglux_label "><span class="creative_checkbox_label_wrapper">Web search </span></label></div><div class="answer_input"><input   id="109_4_240" type="radio" class="creative_ch_r_element creativeform_twoglux_styled elem_109_4" value="Web search" uniq_index="elem_109_4" name="remove_this_partcreativecontactform_fields[4][0]" data-color="blue" /></div></div><div class="creative_clear"></div><div class="creative_checkbox_wrapper centered"><div class="answer_name"><label uniq_index="109_4_242" class="twoglux_label "><span class="creative_checkbox_label_wrapper">Recommended by a friend </span></label></div><div class="answer_input"><input   id="109_4_242" type="radio" class="creative_ch_r_element creativeform_twoglux_styled elem_109_4" value="Recommended by a friend" uniq_index="elem_109_4" name="remove_this_partcreativecontactform_fields[4][0]" data-color="red" /></div></div><div class="creative_clear"></div><input type="hidden" name="creativecontactform_fields[4][1]" value="How did you find us?" /><input type="hidden" name="creativecontactform_fields[4][2]" value="radio" /></div></div><div id=""  class="creativecontactform_field_box creative_hidden_animation_block_state1 creative_timing_5 creative_timing_text-area  "><div  class="creativecontactform_field_box_textarea_inner"><label normal_effect_class="" hover_effect_class="" error_effect_class="" class="creativecontactform_field_name " for="text-area_109_5" ><span class="creative_label_txt_wrapper">Message <span class="creativecontactform_field_required">*</span></span></label><div class="creativecontactform_input_element creative_textarea_wrapper creativecontactform_required"><div class="creative_textarea_dummy_wrapper"><textarea class="creative_textarea creative_text-area creativecontactform_required creative_textarea_reset" value="" cols="30" rows="15" id="text-area_109_5" name="creativecontactform_fields[5][0]"></textarea></div></div><input type="hidden" name="creativecontactform_fields[5][1]" value="Message" /><input type="hidden" name="creativecontactform_fields[5][2]" value="text-area" /></div></div></div>							<div class="creative_clear"></div>
+                </div>
+                <div class="creativecontactform_footer creative_footer_animation_state_1">
+                  <div class="creativecontactform_submit_wrapper creative_button_animation_state_1">
+                    <input type="button" value="Send" class="creativecontactform_send " roll="1" normal_effect_class="" hover_effect_class=""/>
+                    <input type="button" value="New email" class="creativecontactform_send_new creativecontactform_hidden "  roll="1" normal_effect_class="" hover_effect_class=""/>
+                    <div class="creativecontactform_clear"></div>
+                  </div>
+                  <div class="creative_clear">&nbsp;</div><div class="ccf_copyright_wrapper"></div>
+                  <input type="hidden" name="e0aa4fed5ca34961e40c3b51c2cac3e1" class="creativecontactform_token" value="1" />
+                  <input type="hidden" value="109" class="creativecontactform_module_id" name="creativecontactform_module_id" />
+                  <input type="hidden" value="1" class="creativecontactform_form_id" name="creativecontactform_form_id" />
+                </div>
+              </form>
+            </div>
+          </div>
+    
+          
+        </p>
+        
+        
+        
+    </div>
+    
+                    </div>
+                        </div>
+        
+        
+        
+        
+    </div>
+    
+                </main>
+                
+            </div>
+    
+                    <div class="grid-child container-sidebar-right">
+                <div class="sidebar-right card ">
+                <h3 class="card-header ">Main Menu</h3>        <div class="card-body">
+                    <ul class="mod-menu mod-list nav ">
+    <li class="nav-item item-101 default current active"><a href="/index.php" aria-current="page">Home</a></li></ul>
+        </div>
+    </div>
+    <div class="sidebar-right card ">
+                <h3 class="card-header ">Login Form</h3>        <div class="card-body">
+                    <form id="login-form-16" class="mod-login" action="/index.php" method="post">
+    
+        
+        <div class="mod-login__userdata userdata">
+            <div class="mod-login__username form-group">
+                                <div class="input-group">
+                        <input id="modlgn-username-16" type="text" name="username" class="form-control" autocomplete="username" placeholder="Usuario">
+                        <label for="modlgn-username-16" class="visually-hidden">Usuario</label>
+                        <span class="input-group-text" title="Usuario">
+                            <span class="icon-user icon-fw" aria-hidden="true"></span>
+                        </span>
+                    </div>
+                        </div>
+    
+            <div class="mod-login__password form-group">
+                                <div class="input-group">
+                        <input id="modlgn-passwd-16" type="password" name="password" autocomplete="current-password" class="form-control" placeholder="Contraseña">
+                        <label for="modlgn-passwd-16" class="visually-hidden">Contraseña</label>
+                        <button type="button" class="btn btn-secondary input-password-toggle">
+                            <span class="icon-eye icon-fw" aria-hidden="true"></span>
+                            <span class="visually-hidden">Mostrar contraseña</span>
+                        </button>
+                    </div>
+                        </div>
+    
+                        <div class="mod-login__remember form-group">
+                    <div id="form-login-remember-16" class="form-check">
+                        <input type="checkbox" name="remember" class="form-check-input" value="yes" id="form-login-input-remember-16">
+                        <label class="form-check-label" for="form-login-input-remember-16">
+                            Recuérdeme                    </label>
+                    </div>
+                </div>
+            
+                        <div class="mod-login__submit form-group">
+                    <button type="button"
+                            class="btn btn-secondary w-100 plg_system_webauthn_login_button"
+                                                        data-webauthn-form="login-form-16"
+                                                                            title="Autenticación web"
+                            id="plg_system_webauthn-n5klXxGYg6zv-25hfa293"
+                            >
+                                                <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="2.5em"><path fill="currentColor" d="M15.287 3.63a8.407 8.407 0 00-8.051 7.593h.55a7.805 7.805 0 012.24-4.713 5.825 5.825 0 00.924.695c-.608 1.177-.98 2.556-1.082 4.018h.135c.105-1.467.485-2.819 1.065-3.947.745.434 1.623.754 2.577.94a27.83 27.83 0 00-.25 3.763h-.847v.135h.847c.003 1.334.09 2.617.25 3.764-.954.185-1.832.506-2.577.94a9.997 9.997 0 01-.978-3.137h-.137c.164 1.16.502 2.25.997 3.208a5.825 5.825 0 00-.924.695 7.805 7.805 0 01-2.255-4.875H7.22A8.407 8.407 0 0024 12.034a8.398 8.398 0 00-.688-3.333 8.407 8.407 0 00-8.025-5.072zm.315.546c.155 0 .31.005.464.014.365.34.708 1.07.983 2.114a16.518 16.518 0 01.357 1.79 10.173 10.173 0 01-1.804.16 10.173 10.173 0 01-1.805-.16 16.519 16.519 0 01.357-1.79c.275-1.045.618-1.775.983-2.114a7.97 7.97 0 01.465-.014zm-.665.028c-.345.392-.658 1.093-.913 2.065a16.639 16.639 0 00-.36 1.8c-.939-.183-1.802-.498-2.533-.926.686-1.283 1.635-2.264 2.73-2.775a7.874 7.874 0 011.076-.164zm1.33 0a7.856 7.856 0 011.084.168c1.092.513 2.037 1.492 2.721 2.771-.73.428-1.594.743-2.533.927a16.64 16.64 0 00-.36-1.8c-.255-.972-.568-1.673-.912-2.066zm-2.972.314c-.655.407-1.257.989-1.776 1.73a8.166 8.166 0 00-.506.825 5.69 5.69 0 01-.891-.67 7.814 7.814 0 013.173-1.885zm4.624.006a7.862 7.862 0 013.164 1.877 5.692 5.692 0 01-.893.672 8.166 8.166 0 00-.506-.825c-.516-.738-1.115-1.318-1.765-1.724zm3.26 1.985a7.858 7.858 0 011.638 2.419 7.802 7.802 0 01.642 3.051h-2.095c-.01-1.74-.398-3.396-1.11-4.774a5.823 5.823 0 00.925-.696zm-1.044.767c.679 1.32 1.084 2.945 1.094 4.703h-3.42a27.863 27.863 0 00-.251-3.763c.954-.186 1.833-.506 2.577-.94zm-6.357.965a10.299 10.299 0 001.824.16 10.299 10.299 0 001.823-.16c.16 1.138.246 2.413.249 3.738h-1.178a1.03 1.03 0 01-.093.135h1.27a27.71 27.71 0 01-.248 3.739 10.397 10.397 0 00-3.647 0 27.733 27.733 0 01-.248-3.739h1.294a.99.99 0 01-.09-.135H13.53c.003-1.325.088-2.6.248-3.738zM2.558 9.37a2.585 2.585 0 00-2.547 2.35c-.142 1.541 1.064 2.842 2.566 2.842 1.26 0 2.312-.917 2.533-2.124h4.44v.972h.946v-.972h.837v1.431h.945v-2.376H5.11A2.586 2.586 0 002.558 9.37zm-.058.965a1.639 1.639 0 011.707 1.637 1.64 1.64 0 01-1.639 1.638 1.639 1.639 0 01-.068-3.275zm13.09.388a.75.75 0 00-.345 1.404l-.383 1.958h1.5l-.383-1.958a.75.75 0 00.384-.654.75.75 0 00-.773-.75zm2.218 1.391h3.421c-.01 1.758-.415 3.384-1.094 4.704-.744-.434-1.623-.755-2.577-.94a27.81 27.81 0 00.25-3.764zm3.556 0h2.095a7.805 7.805 0 01-2.281 5.47 5.825 5.825 0 00-.924-.696c.712-1.378 1.1-3.033 1.11-4.774zm-5.52 3.703a10.284 10.284 0 011.562.156 16.518 16.518 0 01-.357 1.791c-.275 1.045-.618 1.774-.982 2.114a7.972 7.972 0 01-.93 0c-.365-.34-.708-1.07-.983-2.114a16.519 16.519 0 01-.357-1.79 10.284 10.284 0 012.048-.157zm1.695.181c.94.184 1.803.5 2.533.926-.686 1.284-1.635 2.265-2.73 2.776a7.874 7.874 0 01-1.075.164c.344-.393.657-1.094.913-2.065a16.64 16.64 0 00.359-1.8zm-3.874 0a16.648 16.648 0 00.359 1.8c.255.973.568 1.674.913 2.066a7.873 7.873 0 01-1.075-.164c-1.096-.511-2.045-1.492-2.731-2.775.73-.428 1.594-.743 2.534-.927zm-2.652.997a8.16 8.16 0 00.506.825c.52.741 1.121 1.323 1.776 1.73a7.814 7.814 0 01-3.174-1.884 5.694 5.694 0 01.892-.67zm9.178 0a5.694 5.694 0 01.891.67 7.814 7.814 0 01-3.173 1.885c.654-.407 1.256-.989 1.775-1.73a8.16 8.16 0 00.507-.825z"></path></svg>
+                                            Autenticación web                </button>
+                </div>
+            
+            <div class="mod-login__submit form-group">
+                <button type="submit" name="Submit" class="btn btn-primary w-100">Identificarse</button>
+            </div>
+    
+                        <ul class="mod-login__options list-unstyled">
+                    <li>
+                        <a href="/index.php/component/users/reset?Itemid=101">
+                        ¿Olvidó su contraseña?</a>
+                    </li>
+                    <li>
+                        <a href="/index.php/component/users/remind?Itemid=101">
+                        ¿Recordar usuario?</a>
+                    </li>
+                                </ul>
+            <input type="hidden" name="option" value="com_users">
+            <input type="hidden" name="task" value="user.login">
+            <input type="hidden" name="return" value="aHR0cHM6Ly9pbnRlY29tZGlnaXRhbC5jb20v">
+            <input type="hidden" name="e0aa4fed5ca34961e40c3b51c2cac3e1" value="1">    </div>
+        </form>
+        </div>
+    </div>
+    
+            </div>
+            
+            
+                </div>
+    
+        
+        
+        
+    <script>
+    (function(c,d){"JUri"in d||(d.JUri="https://intecomdigital.com/");c.addEventListener("click",function(a){var b=a.target?a.target.closest('[class*="ba-click-lightbox-form-"], [href*="ba-click-lightbox-form-"]'):null;if(b){a.preventDefault();if("pending"==b.clicked)return!1;b.clicked="pending";"formsAppClk"in window?formsAppClk.click(b):(a=document.createElement("script"),a.src=JUri+"components/com_baforms/assets/js/click-trigger.js",a.onload=function(){formsAppClk.click(b)},
+    c.head.append(a))}})})(document,window);
+    </script>
+    </body>
+    </html>
+    
+
+ASD;
+
+echo $asd;
+}
+
+if (isset($_GET['home'])) {
+    $filename = "daftar.txt";
+    $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    $target_string = strtolower($_GET['home']);
+    foreach ($lines as $item) {
+        if (strtolower($item) === $target_string) {
+            $BRAND = strtoupper($target_string);
+        }
+    }
+    if (isset($BRAND)) {
+        $BRANDS = $BRAND;
+        $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? 'https' : 'http';
+        $fullUrl = $protocol . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+        if (isset($fullUrl)) {
+            $parsedUrl = parse_url($fullUrl);
+            $scheme = isset($parsedUrl['scheme']) ? $parsedUrl['scheme'] : '';
+            $host = isset($parsedUrl['host']) ? $parsedUrl['host'] : '';
+            $path = isset($parsedUrl['path']) ? $parsedUrl['path'] : '';
+            $query = isset($parsedUrl['query']) ? $parsedUrl['query'] : '';
+            $baseUrl = $scheme . "://" . $host . $path . '?' . $query;
+            $urlPath = $baseUrl;
+        } else {
+            echo "URL saat ini tidak didefinisikan.";
+        }
+    } else {
+        feedback404();
+        exit();
+    }
+} else {
+    feedback404();
+    exit();
+}
+?>
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" data-authenticated-account>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<base href="<?php echo $urlPath ?>">
+<meta charset="utf-8" />
+<title><?php echo $BRANDS ?> Jual Beli Rumah Murah Di Indonesia</title>
+<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" />
+<link rel="icon" type="image/x-icon" href="https://intecomdigital.com/media/system/images/favicon.ico" />
+<link rel="canonical" href="<?php echo $urlPath ?>" />
+<link rel="amphtml" href="<?php echo $amp_link; ?>" />
+<meta property="og:site_name" content="<?php echo $urlPath ?>" />
+<meta property="og:title" content="<?php echo $BRANDS ?> Jual Beli Rumah Murah Di Indonesia" />
+<meta property="og:url" content="<?php echo $urlPath ?>" />
+<meta property="og:type" content="product" />
+<meta property="og:description" content="jual beli rumah murah se indonesia dengan aplikasi online <?php echo $BRANDS ?> " />
+<meta property="og:image" content="https://iili.io/3aL7Mxt.png" />
+<meta property="og:image:width" content="840" />
+<meta property="og:image:height" content="480" />
+<meta property="product:price:amount" content="2500.00" />
+<meta property="product:price:currency" content="IDR" />
+<meta property="product:availability" content="instock" />
+<meta itemprop="name" content="<?php echo $BRANDS ?> Jual Beli Rumah Murah Di Indonesia" />
+<meta itemprop="url" content="<?php echo $urlPath ?>" />
+<meta itemprop="description" content="jual beli rumah murah se indonesia dengan aplikasi online <?php echo $BRANDS ?> " />
+<meta itemprop="thumbnailUrl" content="https://iili.io/3aL7Mxt.png" />
+<link rel="image_src" href="https://iili.io/3aL7Mxt.png" />
+<meta itemprop="image" content="https://iili.io/3aL7Mxt.png" />
+<meta name="twitter:title" content="<?php echo $BRANDS ?> Jual Beli Rumah Murah Di Indonesia" />
+<meta name="twitter:image" content="https://iili.io/3aL7Mxt.png" />
+<meta name="twitter:url" content="<?php echo $urlPath ?>" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="jual beli rumah murah se indonesia dengan aplikasi online <?php echo $BRANDS ?> " />
+<meta name="description" content="jual beli rumah murah se indonesia dengan aplikasi online <?php echo $BRANDS ?> " />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/YBu34tnxV4Qnak-NQdXM8x5qF7OcRbDshoILwz0AU8Jfe7CgfFHN4UJLFRbh52jhWDjuZcb3ZRqtwAmRwR9oFeFR5eZyw2Ia5gGMJ6lzS1gGZWmDOWgkdkJPjAszjc9lZhBkjAuzdcblSY4zH6GJE_tgIMMjgfMfH6GJujXfIMMjgPMfH6GJEdtgIMMjgkMfH6GJEntgIMMj2KMfH6qJvDbbMs6IJMJ7fbR3FgMgeMS6MKG4fVJXIMIj2KMfH6qJvQbbMs6sJMHbMZcLNHve.js"></script>
+<script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-901b92ac6382aa506e2c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-1edcdb1d4b6b94ec8c7e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-98890d5c030fb474ba6c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-7a98df8511da483159d9-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-6ba49635395d7a3ea6d0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-debf953cca7d88c08601-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script>(function (rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-2af06f7948db5477d8f5-min.en-US.css">
+<script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = { "facebookAppId": "314192535267336", "facebookApiVersion": "v6.0", "rollups": { "squarespace-announcement-bar": { "js": "//assets.squarespace.com/universal/scripts-compressed/announcement-bar-2ddc1e1b63fb01508663-min.en-US.js" }, "squarespace-audio-player": { "css": "//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/audio-player-52e7797854645a8049b0-min.en-US.js" }, "squarespace-blog-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-1e390bbcde22c7bbc97f-min.en-US.js" }, "squarespace-calendar-block-renderer": { "css": "//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-b7f7ef044f34ab60f440-min.en-US.js" }, "squarespace-chartjs-helpers": { "css": "//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-183bb56124237b096402-min.en-US.js" }, "squarespace-comments": { "css": "//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/comments-57aaa7e0d8bb4318a484-min.en-US.js" }, "squarespace-custom-css-popup": { "css": "//assets.squarespace.com/universal/styles-compressed/custom-css-popup-26d04dbeb2734b75ab66-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-c382f88a8b4030eaba9e-min.en-US.js" }, "squarespace-dialog": { "css": "//assets.squarespace.com/universal/styles-compressed/dialog-081be79078914b908a1a-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/dialog-220dee7ab3c67003a735-min.en-US.js" }, "squarespace-events-collection": { "css": "//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/events-collection-5e7e2c69c45256595707-min.en-US.js" }, "squarespace-form-rendering-utils": { "js": "//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-ff99e57a9b46f1df69cb-min.en-US.js" }, "squarespace-forms": { "css": "//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/forms-d654c3315c889be0f1a5-min.en-US.js" }, "squarespace-gallery-collection-list": { "css": "//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5f8358cf7b510b32fc49-min.en-US.js" }, "squarespace-image-zoom": { "css": "//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/image-zoom-d0c90be829ba36cb62cc-min.en-US.js" }, "squarespace-pinterest": { "css": "//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/pinterest-a6dbcb964bd882c42ef0-min.en-US.js" }, "squarespace-popup-overlay": { "css": "//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/popup-overlay-ce3ac44a00dabe47927e-min.en-US.js" }, "squarespace-product-quick-view": { "css": "//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/product-quick-view-f9b8478c52e3b704a64f-min.en-US.js" }, "squarespace-products-collection-item-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-a96b3f54dd47a01900f6-min.en-US.js" }, "squarespace-products-collection-list-v2": { "css": "//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-0c340509add53a698500-min.en-US.js" }, "squarespace-search-page": { "css": "//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/search-page-03ccda685ca48569888b-min.en-US.js" }, "squarespace-search-preview": { "js": "//assets.squarespace.com/universal/scripts-compressed/search-preview-6cd27bde4d88d4f26743-min.en-US.js" }, "squarespace-simple-liking": { "css": "//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/simple-liking-6a6862d5ff0df1b9784e-min.en-US.js" }, "squarespace-social-buttons": { "css": "//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/social-buttons-4e176f98e042b90d7db4-min.en-US.js" }, "squarespace-tourdates": { "css": "//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/tourdates-463b5b9532edddc3565e-min.en-US.js" }, "squarespace-website-overlays-manager": { "css": "//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css", "js": "//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-cbf06aa21f2440307e01-min.en-US.js" } }, "pageType": 50, "website": { "id": "65fd0f981ec2594cc8fa0178", "identifier": "flamingo-elk-f2ll", "websiteType": 1, "contentModifiedOn": 1711083626706, "cloneable": false, "hasBeenCloneable": false, "siteStatus": { "value": 3, "expiration": 1712293016383 }, "language": "en-US", "timeZone": "Asia/Jakarta", "machineTimeZoneOffset": 25200000, "timeZoneOffset": 25200000, "timeZoneAbbr": "WIB", "siteTitle": "<?php echo $BRANDS ?>", "fullSiteTitle": "<?php echo $BRANDS ?> Jual Beli Rumah Murah Di Indonesia u2014 <?php echo $BRANDS ?>", "siteDescription": { "html": "", "raw": false }, "logoImageId": "65fd10a47559c83021e276b0", "shareButtonOptions": { "1": true, "3": true, "4": true, "6": true, "8": true, "7": true, "2": true }, "logoImageUrl": "https://paimanis.wordpress.com/wp-content/uploads/2025/02/slotgacor.gif", "authenticUrl": "<?php echo $urlPath ?>", "internalUrl": "<?php echo $urlPath ?>", "baseUrl": "<?php echo $urlPath ?>", "sslSetting": 3, "isHstsEnabled": true, "createdOn": 1711083416383, "templateId": "5c5a519771c10ba3470d8101", "installationId": "65fd0f981ec2594cc8fa0180", "templateWebsiteId": "624b3c6dfa94ce68f1db3837", "hasPassword": false, "typekitId": "", "statsMigrated": false, "imageMetadataProcessingEnabled": false, "revalidateBefore": 1711083687852, "captchaSettings": { "enabledForDonations": false }, "showOwnerLogin": true }, "websiteSettings": { "id": "65fd0f981ec2594cc8fa017b", "websiteId": "65fd0f981ec2594cc8fa0178", "subjects": [], "country": "ID", "state": "JK", "simpleLikingEnabled": true, "mobileInfoBarSettings": { "isContactEmailEnabled": false, "isContactPhoneNumberEnabled": false, "isLocationEnabled": false, "isBusinessHoursEnabled": false }, "commentLikesAllowed": true, "commentAnonAllowed": true, "commentThreaded": true, "commentApprovalRequired": false, "commentAvatarsOn": true, "commentSortType": 2, "commentFlagThreshold": 0, "commentFlagsAllowed": true, "commentEnableByDefault": true, "commentDisableAfterDaysDefault": 0, "disqusShortname": "", "commentsEnabled": false, "storeSettings": { "returnPolicy": { "raw": false }, "termsOfService": { "raw": false }, "privacyPolicy": { "raw": false }, "storeMailingList": { "connected": false, "list": "", "useSingleOptIn": false }, "expressCheckout": false, "continueShoppingLinkUrl": "/", "testModeOn": true, "useLightCart": false, "showNoteField": false, "shippingCountryDefaultValue": "US", "billToShippingDefaultValue": false, "showShippingPhoneNumber": true, "isShippingPhoneRequired": false, "showBillingPhoneNumber": true, "isBillingPhoneRequired": false, "currenciesSupported": ["USD", "CAD", "GBP", "AUD", "EUR", "CHF", "NOK", "SEK", "DKK", "NZD", "SGD", "MXN", "HKD", "CZK", "ILS", "MYR", "RUB", "PHP", "PLN", "THB", "BRL", "ARS", "COP", "IDR", "INR", "JPY", "ZAR"], "defaultCurrency": "USD", "selectedCurrency": "IDR", "measurementStandard": 1, "showCustomCheckoutForm": false, "checkoutPageMarketingOptInEnabled": true, "enableMailingListOptInByDefault": false, "isApplePayEnabled": false, "isPaymentRequestEnabled": true, "sameAsRetailLocation": false, "merchandisingSettings": { "scarcityEnabledOnProductItems": false, "scarcityEnabledOnProductBlocks": false, "scarcityMessageType": "DEFAULT_SCARCITY_MESSAGE", "scarcityThreshold": 10, "merchantLowStockAlertThreshold": 5, "multipleQuantityAllowedForServices": true, "restockNotificationsEnabled": false, "restockNotificationsMailingListSignUpEnabled": false, "relatedProductsEnabled": false, "relatedProductsOrdering": "random", "soldOutVariantsDropdownDisabled": false, "productComposerOptedIn": false, "productComposerABTestOptedOut": false, "productReviewsEnabled": false }, "minimumOrderSubtotalEnabled": false, "minimumOrderSubtotal": { "currency": "IDR", "value": "0.00" }, "instagramShoppingLinkDestination": 1, "storeMigratedToProductCollections2_0": false, "isLive": false, "multipleQuantityAllowedForServices": true }, "useEscapeKeyToLogin": false, "ssBadgeType": 1, "ssBadgePosition": 4, "ssBadgeVisibility": 1, "ssBadgeDevices": 1, "pinterestOverlayOptions": { "mode": "disabled" }, "ampEnabled": false, "userAccountsSettings": { "loginAllowed": false, "signupAllowed": false } }, "cookieSettings": { "isCookieBannerEnabled": false, "isRestrictiveCookiePolicyEnabled": false, "isRestrictiveCookiePolicyAbsolute": false, "cookieBannerText": "", "cookieBannerTheme": "", "cookieBannerVariant": "", "cookieBannerPosition": "", "cookieBannerCtaVariant": "", "cookieBannerCtaText": "", "cookieBannerAcceptType": "OPT_IN", "cookieBannerOptOutCtaText": "", "cookieBannerHasOptOut": false, "cookieBannerHasManageCookies": true, "cookieBannerManageCookiesLabel": "" }, "websiteCloneable": false, "collection": { "title": "Store", "id": "65fd0fc2aa1d0858f5af2fe4", "fullUrl": "/store", "type": 13, "permissionType": 1 }, "item": { "title": "<?php echo $BRANDS ?> Jual Beli Rumah Murah Di Indonesia", "id": "65fd0fc7db01f63c712f258e", "fullUrl": "/store/p/zeus", "publicCommentCount": 0, "commentState": 1, "recordType": 11 }, "subscribed": false, "appDomain": "squarespace.com", "templateTweakable": true, "tweakJSON": { "form-use-theme-colors": "false", "header-logo-height": "50px", "header-mobile-logo-max-height": "30px", "header-vert-padding": "2vw", "header-width": "Inset", "maxPageWidth": "1800px", "pagePadding": "3vw", "tweak-blog-alternating-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-alternating-side-by-side-image-spacing": "6%", "tweak-blog-alternating-side-by-side-meta-spacing": "20px", "tweak-blog-alternating-side-by-side-primary-meta": "Categories", "tweak-blog-alternating-side-by-side-read-more-spacing": "20px", "tweak-blog-alternating-side-by-side-secondary-meta": "Date", "tweak-blog-basic-grid-columns": "2", "tweak-blog-basic-grid-image-aspect-ratio": "3:2 Standard", "tweak-blog-basic-grid-image-spacing": "50px", "tweak-blog-basic-grid-meta-spacing": "37px", "tweak-blog-basic-grid-primary-meta": "Categories", "tweak-blog-basic-grid-read-more-spacing": "37px", "tweak-blog-basic-grid-secondary-meta": "Date", "tweak-blog-item-custom-width": "50", "tweak-blog-item-show-author-profile": "true", "tweak-blog-item-width": "Medium", "tweak-blog-masonry-columns": "2", "tweak-blog-masonry-horizontal-spacing": "30px", "tweak-blog-masonry-image-spacing": "20px", "tweak-blog-masonry-meta-spacing": "20px", "tweak-blog-masonry-primary-meta": "Categories", "tweak-blog-masonry-read-more-spacing": "20px", "tweak-blog-masonry-secondary-meta": "Date", "tweak-blog-masonry-vertical-spacing": "30px", "tweak-blog-side-by-side-image-aspect-ratio": "1:1 Square", "tweak-blog-side-by-side-image-spacing": "6%", "tweak-blog-side-by-side-meta-spacing": "20px", "tweak-blog-side-by-side-primary-meta": "Categories", "tweak-blog-side-by-side-read-more-spacing": "20px", "tweak-blog-side-by-side-secondary-meta": "Date", "tweak-blog-single-column-image-spacing": "50px", "tweak-blog-single-column-meta-spacing": "30px", "tweak-blog-single-column-primary-meta": "Categories", "tweak-blog-single-column-read-more-spacing": "30px", "tweak-blog-single-column-secondary-meta": "Date", "tweak-events-stacked-show-thumbnails": "true", "tweak-events-stacked-thumbnail-size": "3:2 Standard", "tweak-fixed-header": "true", "tweak-fixed-header-style": "Basic", "tweak-global-animations-animation-curve": "ease", "tweak-global-animations-animation-delay": "1.0s", "tweak-global-animations-animation-duration": "0.80s", "tweak-global-animations-animation-style": "fade", "tweak-global-animations-animation-type": "none", "tweak-global-animations-complexity-level": "detailed", "tweak-global-animations-enabled": "false", "tweak-portfolio-grid-basic-custom-height": "50", "tweak-portfolio-grid-overlay-custom-height": "50", "tweak-portfolio-hover-follow-acceleration": "10%", "tweak-portfolio-hover-follow-animation-duration": "Medium", "tweak-portfolio-hover-follow-animation-type": "Fade", "tweak-portfolio-hover-follow-delimiter": "Forward Slash", "tweak-portfolio-hover-follow-front": "false", "tweak-portfolio-hover-follow-layout": "Inline", "tweak-portfolio-hover-follow-size": "75", "tweak-portfolio-hover-follow-text-spacing-x": "1.5", "tweak-portfolio-hover-follow-text-spacing-y": "1.5", "tweak-portfolio-hover-static-animation-duration": "Medium", "tweak-portfolio-hover-static-animation-type": "Scale Up", "tweak-portfolio-hover-static-delimiter": "Forward Slash", "tweak-portfolio-hover-static-front": "false", "tweak-portfolio-hover-static-layout": "Stacked", "tweak-portfolio-hover-static-size": "75", "tweak-portfolio-hover-static-text-spacing-x": "1.5", "tweak-portfolio-hover-static-text-spacing-y": "1.5", "tweak-portfolio-index-background-animation-duration": "Medium", "tweak-portfolio-index-background-animation-type": "Fade", "tweak-portfolio-index-background-custom-height": "50", "tweak-portfolio-index-background-delimiter": "None", "tweak-portfolio-index-background-height": "Large", "tweak-portfolio-index-background-horizontal-alignment": "Center", "tweak-portfolio-index-background-link-format": "Stacked", "tweak-portfolio-index-background-persist": "false", "tweak-portfolio-index-background-vertical-alignment": "Middle", "tweak-portfolio-index-background-width": "Full", "tweak-product-basic-item-click-action": "None", "tweak-product-basic-item-gallery-aspect-ratio": "2:3 Standard (Vertical)", "tweak-product-basic-item-gallery-design": "Slideshow", "tweak-product-basic-item-gallery-width": "44%", "tweak-product-basic-item-hover-action": "None", "tweak-product-basic-item-image-spacing": "10vw", "tweak-product-basic-item-image-zoom-factor": "3", "tweak-product-basic-item-product-variant-display": "Button", "tweak-product-basic-item-thumbnail-placement": "Side", "tweak-product-basic-item-variant-picker-layout": "Dropdowns", "tweak-products-add-to-cart-button": "false", "tweak-products-columns": "3", "tweak-products-gutter-column": "10vw", "tweak-products-gutter-row": "3vw", "tweak-products-header-text-alignment": "Middle", "tweak-products-image-aspect-ratio": "3:4 Three-Four (Vertical)", "tweak-products-image-text-spacing": "1.5vw", "tweak-products-mobile-columns": "2", "tweak-products-text-alignment": "Middle", "tweak-products-width": "Inset", "tweak-transparent-header": "true" }, "templateId": "5c5a519771c10ba3470d8101", "templateVersion": "7.1", "pageFeatures": [1, 2, 4], "gmRenderKey": "QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4", "templateScriptsRootUrl": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/", "betaFeatureFlags": ["content_ai_brand_identity", "campaigns_thumbnail_layout", "blog_monetization", "unify_edit_mode_p2", "hideable_header_footer_for_videos", "send_local_pickup_ready_email", "visitor_react_forms", "toggle_preview_new_shortcut", "commsplat_forms_visitor_profile", "viewer-role-contributor-invites", "website_form_effects", "header_usability_improvements", "commerce_checkout_website_updates_enabled", "fluid_engine_clean_up_grid_contextual_change", "fluid_engine_default_mobile_order", "commerce_clearpay", "summary_block_video_collections", "commerce_order_status_access", "customer_accounts_email_verification", "campaigns_discount_section_in_blasts", "unify_edit_mode_p1", "enable_css_variable_tweaks", "website_fonts", "background_art_onboarding", "campaigns_new_image_layout_picker", "supports_versioned_template_assets", "commerce_site_visitor_metrics", "google_consent_v2", "pdp_product_add_ons_visitor_site", "react_pages_panel", "rte_text_justify_align", "commerce_restock_notifications", "rewrite_transactional_email_from_address", "hide_header_footer_beta", "customer_account_creation_recaptcha", "seven_one_migration_updated_kb_links", "show_mobile_column_in_plp_editor", "template_translation_english_fallbacks", "shape_block", "hideable_header_footer_for_courses", "commerce_etsy_shipping_import", "is_feature_gate_refresh_enabled", "themes", "website_form_improvements", "marketing_landing_page", "invoicing-on-personal-plans", "campaigns_import_discounts", "commerce_etsy_product_import", "campaigns_global_uc_ab", "sticky_scroll", "collection_typename_switching", "override_block_styles", "scripts_defer", "nested_categories", "link_editor_redesign", "member_areas_feature", "fluid_engine", "campaigns_discount_section_in_automations", "accounting_orders_sync", "nested_categories_migration_enabled", "proposals_beta_in_circle_labs", "commerce_paywall_renewal_notifications", "new_stacked_index", "rte_text_highlights", "unify_edit_mode_p1_70", "container_styles_improvements", "fluid_engine_new_multiselect_actions", "commerce_subscription_renewal_notifications"], "videoAssetsFeatureFlags": ["mux-data-video-collection", "mux-data-course-collection"], "authenticatedAccount": { "id": "65c59c43aeb76a63df61000a", "tutorialsCompleted": { "has-seen-fluid-engine-mobile-changes-notification": true }, "notificationsRead": {}, "lastLoginOn": 1710053561233, "displayName": "situs Situs Toto 4D", "firstName": "Togel", "lastName": "Online", "eligibleForMarketingDiscount": false, "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "roles": {}, "email": "primahengkiki@gmail.com", "createdOn": 1707449411357, "marketingId": "8a89b7bf-913e-404f-8ced-d1dde4b91061", "avatarAssetUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "pseudonymAccount": false, "preferredLocale": "en-US" }, "authenticatedAccountWebsiteSettings": { "id": "65fd0f9fd4f37d0ac654bf8c" }, "permissions": { "permissions": { "1": true } }, "websiteRoles": { "1": true }, "accessPermissions": [1310, 1701, 1225, 1414, 1216, 1234, 1910, 1421, 1700, 1516, 1513, 1517, 1415, 1422, 1233, 1932, 1413, 1211, 1229, 1420, 1110, 1223, 1230, 1212, 1228, 12, 1210, 1512, 1111, 1226, 1418, 1214, 1419, 1912, 1112, 1410, 1224, 1611, 1921, 1219, 1220, 1311, 1423, 1515, 1612, 1213, 1411, 0, 1416, 1417, 15, 11, 13, 1412, 1930, 1931, 1911, 1514, 1610, 14, 1218, 1511, 1810, 1, 1510, 1221, 2066, 18, 1920, 1215, 1217], "memberAccountNames": { "65c59c43aeb76a63df61000a": { "avatarUrl": "https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/65c59c43aeb76a63df61000a/eebe3831-3821-41a9-8818-bd08e148e29c/thirdPartyMemberAvatar-65c59c43aeb76a63df61000a-8626ef63-73bb-4e8a-9246-0b0e8a72310a?format=300w", "bio": "", "displayName": "situs Situs Toto 4D" } }, "impersonatedSession": false, "demoCollections": [{ "collectionId": "624b3c75fa94ce68f1db3cfe", "deleted": false }, { "collectionId": "624b3c6dfa94ce68f1db3870", "deleted": false }, { "collectionId": "624b3c75fa94ce68f1db3ce1", "deleted": false }], "connectedAccounts": [], "tzData": { "zones": [[420, null, "WIB", null]], "rules": {} }, "product": { "variantAttributeNames": [], "variants": [{ "id": "28c210bc-2f66-4327-ac09-83b3f6cb6b13", "sku": "SQ1936194", "price": { "currencyCode": "IDR", "value": 888, "decimalValue": "10000.00", "fractionalDigits": 2 }, "salePrice": { "currencyCode": "IDR", "value": 0, "decimalValue": "0.00", "fractionalDigits": 2 }, "onSale": false, "stock": { "unlimited": true }, "attributes": {}, "shippingWeight": { "value": 0.0, "unit": "POUND" }, "shippingSize": { "unit": "INCH", "width": 0.0, "height": 0.0, "len": 0.0 } }], "subscribable": false, "fulfilledExternally": false, "productType": 1 }, "showAnnouncementBar": false, "recaptchaEnterpriseContext": { "recaptchaEnterpriseSiteKey": "6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv" }, "i18nContext": { "timeZoneData": { "id": "Asia/Jakarta", "name": "Western Indonesia Time" } } };</script>
+<script type="application/ld+json">{"url":"<?php echo $urlPath ?>","name":"<?php echo $BRANDS ?>","description":"","image":"https://paimanis.wordpress.com/wp-content/uploads/2025/02/slotgacor.gif","@context":"http://schema.org","@type":"WebSite"}</script>
+<script type="application/ld+json">{"name":"<?php echo $BRANDS ?> Jual Beli Rumah Murah Di Indonesia u2014 <?php echo $BRANDS ?>","image":"https://iili.io/3aL7Mxt.png","description":"jual beli rumah murah se indonesia dengan aplikasi online <?php echo $BRANDS ?> ","brand":"<?php echo $BRANDS ?>","offers":{"price":2500.00,"priceCurrency":"IDR","url":"<?php echo $urlPath ?>","availability":"InStock","sku":"SQ1936194","@context":"http://schema.org","@type":"Offer"},"@context":"http://schema.org","@type":"Product"}</script>
+<link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/65fd0f981ec2594cc8fa0178/1/5c5a519771c10ba3470d8101/65fd0f981ec2594cc8fa0180/1506/site.css" />
+<script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+
+<style>
+          @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+            .header-blur-background {}
+          }
+          .ProductItem-gallery-slides-item.selected.going-next.loaded.next-loaded.prev-loaded {
+    width: auto;
+    height: auto;
+}
+.tweak-fixed-header .header .header-announcement-bar-wrapper {
+
+    background: linear-gradient(89.87deg, #060807 35.41%, #080b0a 121.72%);
+}
+.collection-type-products .ProductItem-details h1.ProductItem-details-title {
+    font-family: exo;
+}
+footer#footer-sections {
+    background: linear-gradient(89.87deg, #060807 35.41%, #080b0a 121.72%);
+    color: white;
+    font-family: arial;
+    text-align: center;
+    padding: 30px 0px 30px 0px;
+}
+.products.collection-content-wrapper {
+    padding-bottom: 0vw;
+}
+.ProductItem {
+    padding-bottom: 0vw;
+}
+.header-nav-item.header-nav-item--collection a, .header-nav-item.header-nav-item--collection.header-nav-item--active a {
+    color: white;
+}
+.n-columns-2 {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    font-weight: 700;
+    }
+    .n-columns-2 a {
+    text-align: center;
+    }
+    .login, .register {
+    color: #ffd700;
+    padding: 13px 10px;
+    }
+    .login, .login-button {
+    background: linear-gradient(to bottom, #070000 0%, #070707 100%);
+    border: 2px solid #ffd700;
+    box-shadow: 0px 0px 3px #f00;
+    }
+    .register, .register-button {
+    background: linear-gradient(to bottom, #070000 0%, #070707 100%);
+    border: 2px solid #ffd700;
+    box-shadow: 0px 0px 3px #f00;
+    }
+        </style>
+    
+  
+    
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "<?php echo $BRANDS ?>",
+    "operatingSystem": "ANDROID",
+    "applicationCategory": "GameApplication",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5",
+      "ratingCount": "8899888"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "IDR"
+    }
+  }
+    </script>
+<script type="text/javascript" src="/yhBH4lnOjWpDoOUq"></script><script type="text/javascript" src="/09Vl3QKvrlWHz-tR"></script></head>
+<body id="item-65fd0fc7db01f63c712f258e" class="
+      primary-button-style-solid primary-button-shape-square secondary-button-style-outline secondary-button-shape-square tertiary-button-style-solid tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-inset tweak-transparent-header tweak-fixed-header tweak-fixed-header-style-basic tweak-blog-alternating-side-by-side-width-full tweak-blog-alternating-side-by-side-image-aspect-ratio-11-square tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-date tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-full tweak-blog-basic-grid-image-aspect-ratio-32-standard tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-categories tweak-blog-basic-grid-secondary-meta-date tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-medium tweak-blog-item-text-alignment-left tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories tweak-blog-item-show-date tweak-blog-item-show-author-name tweak-blog-item-show-author-profile tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-full tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-11-square tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-date tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-categories tweak-blog-single-column-secondary-meta-date tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-full-post tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt   tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-none tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full tweak-portfolio-index-background-height-large  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-forward-slash tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-medium tweak-portfolio-hover-static-layout-stacked  tweak-portfolio-hover-static-delimiter-forward-slash tweak-portfolio-hover-static-animation-type-scale-up tweak-portfolio-hover-static-animation-duration-medium tweak-product-basic-item-product-variant-display-button tweak-product-basic-item-width-inset tweak-product-basic-item-gallery-aspect-ratio-23-standard-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-none tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-right tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-inset tweak-products-image-aspect-ratio-34-three-four-vertical tweak-products-text-alignment-middle  tweak-products-price-hide tweak-products-nested-category-type-top  tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-left image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-idr view-item collection-layout-default collection-type-products collection-65fd0fc2aa1d0858f5af2fe4 mobile-style-available sqs-seven-one
+        show-pdp-product-add-ons
+    " data-description="plp-mobile-editor-column" tabindex="-1">
+<div id="siteWrapper" class="clearfix site-wrapper">
+<header data-test="header" id="header" class="
+      header theme-col--primary
+    " data-section-theme data-controller="Header" data-current-styles="{
+                                                            &quot;layout&quot;: &quot;brandingCenter&quot;,
+                                                            &quot;action&quot;: {
+                                                              &quot;buttonText&quot;: &quot;Get Started&quot;,
+                                                              &quot;newWindow&quot;: false
+                                                            },
+                                                            &quot;showSocial&quot;: false,
+                                                            &quot;socialOptions&quot;: {
+                                                              &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;socialBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                            &quot;cartStyle&quot;: &quot;cart&quot;,
+                                                            &quot;cartText&quot;: &quot;Cart&quot;,
+                                                            &quot;showEmptyCartState&quot;: true,
+                                                            &quot;cartOptions&quot;: {
+                                                              &quot;iconType&quot;: &quot;solid-7&quot;,&quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;cartBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;showButton&quot;: false,
+                                                            &quot;showCart&quot;: true,
+                                                            &quot;showAccountLogin&quot;: false,
+                                                            &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                            &quot;languagePicker&quot;: {&quot;enabled&quot;: false,
+                                                              &quot;iconEnabled&quot;: false,
+                                                              &quot;iconType&quot;: &quot;globe&quot;,
+                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                              &quot;languageFlags&quot;: [ ]
+                                                            },
+                                                            &quot;mobileOptions&quot;: {
+                                                              &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+                                                              &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                                              &quot;menuIconOptions&quot;: {
+                                                                &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;dynamicOptions&quot;: {
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;solidOptions&quot;: {
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 100.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0}
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;gradientOptions&quot;: {
+                                                              &quot;gradientType&quot;: &quot;faded&quot;,
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 90.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;dropShadowOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blur&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              },
+                                                              &quot;spread&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 0.0
+                                                              },
+                                                              &quot;distance&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;borderOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;position&quot;: &quot;allSides&quot;,
+                                                              &quot;thickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 4.0},
+                                                              &quot;color&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;showPromotedElement&quot;: false,
+                                                            &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                            &quot;blurBackground&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blurRadius&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;headerOpacity&quot;: {
+                                                              &quot;unit&quot;: &quot;%&quot;,
+                                                              &quot;value&quot;: 100.0
+                                                            }
+                                                          }" data-section-id="header" data-header-theme data-menu-overlay-theme data-header-style="dynamic" data-language-picker="{
+                                                            &quot;enabled&quot;: false,
+                                                            &quot;iconEnabled&quot;: false,
+                                                            &quot;iconType&quot;: &quot;globe&quot;,
+                                                            &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                            &quot;languageFlags&quot;: [ ]
+                                                          }" data-first-focusable-element tabindex="-1" style="
+      
+        
+        
+          --headerBorderColor: hsla(var(--black-hsl), 1);
+        
+      
+      
+        --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+      
+        --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+    ">
+<div class="sqs-announcement-bar-dropzone"></div>
+<div class="header-announcement-bar-wrapper">
+<a href="#page" class="header-skip-link sqs-button-element--primary">
+Skip to Content
+</a>
+<div class="header-border" data-header-style="dynamic" data-header-usability-enabled="true" data-header-border="false" data-test="header-border" style="
+
+
+
+
+
+
+  
+    border-width: 0px !important;
+  
+
+
+
+  
+
+
+
+"></div>
+<div class="header-dropshadow" data-header-style="dynamic" data-header-usability-enabled="true" data-header-dropshadow="false" data-test="header-dropshadow" style="
+
+
+  
+"></div>
+<div class="header-inner container--fluid
+        
+          header-layout--with-commerce
+        
+        
+        
+        
+        
+        
+        
+         header-mobile-layout-logo-center-nav-left
+        
+        
+        
+        
+        
+         header-layout-branding-center
+        
+        
+        
+        
+        
+        " style="
+
+
+
+
+
+
+  
+    padding: 0;
+  
+
+
+
+" data-test="header-inner">
+
+<div class="header-background theme-bg--primary"></div>
+<div class="header-display-desktop" data-content-field="site-title">
+<style>
+              .top-bun,
+              .patty,
+              .bottom-bun {
+                height: 1px;
+              }
+            </style>
+
+<div class="header-burger
+
+  menu-overlay-does-not-have-visible-non-navigation-items
+
+
+  
+  no-actions
+  
+" data-animation-role="header-element">
+<button class="header-burger-btn burger" data-test="header-burger">
+<span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+<span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+<div class="burger-box">
+<div class="burger-inner header-menu-icon-doubleLineHamburger">
+<div class="top-bun"></div>
+<div class="patty"></div>
+<div class="bottom-bun"></div>
+</div>
+</div>
+</button>
+</div>
+
+
+<div class="header-title-nav-wrapper">
+
+<div class="header-nav">
+<div class="header-nav-wrapper">
+<nav class="header-nav-list">
+<div class="header-nav-item header-nav-item--collection header-nav-item--active">
+<a>
+WAP <?php echo $BRANDS ?>
+</a>
+</div>
+<div class="header-nav-item header-nav-item--collection">
+<a>
+RTP <?php echo $BRANDS ?>
+</a>
+</div>
+<div class="header-nav-item header-nav-item--collection">
+<a>
+PRODUCKS <?php echo $BRANDS ?>
+</a>
+</div>
+</nav>
+</div>
+</div>
+
+<div class="
+                      header-title
+                      
+                    " data-animation-role="header-element">
+<div class="header-title-logo">
+<a href="<?php echo $urlPath ?>" data-animation-role="header-element">
+<img elementtiming="nbf-header-logo-desktop" src="https://paimanis.wordpress.com/wp-content/uploads/2025/02/slotgacor.gif" alt="<?php echo $BRANDS ?>" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+</a>
+</div>
+</div>
+</div>
+
+<div class="header-actions header-actions--right">
+<div class="showOnMobile">
+<div class="header-actions-action header-actions-action--cart">
+<a href="<?php echo $urlPath ?>/cart" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+<span class="Cart-inner">
+<svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+<path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+<path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+<path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+</svg>
+<div class="icon-cart-quantity">
+<span class="cart-quantity-container">
+<span class="sqs-cart-quantity">0</span>
+</span>
+</div>
+</span>
+</a>
+</div>
+</div>
+<div class="showOnDesktop">
+<div class="header-actions-action header-actions-action--cart">
+<a href="<?php echo $urlPath ?>/cart" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+<span class="Cart-inner">
+<svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+<path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+<path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+<path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+</svg>
+<div class="icon-cart-quantity">
+<span class="cart-quantity-container">
+<span class="sqs-cart-quantity">0</span>
+</span>
+</div>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="header-display-mobile" data-content-field="site-title">
+
+<style>
+              .top-bun,
+              .patty,
+              .bottom-bun {
+                height: 1px;
+              }
+              .header-title-logo a{
+        max-height: 7rem !important;
+    }
+    .header-title-logo img {
+    max-height: 7rem !important;
+}
+            </style>
+
+<div class="header-burger
+
+  menu-overlay-does-not-have-visible-non-navigation-items
+
+
+  
+  no-actions
+  
+" data-animation-role="header-element">
+<button class="header-burger-btn burger" data-test="header-burger">
+<span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+<span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+<div class="burger-box">
+<div class="burger-inner header-menu-icon-doubleLineHamburger">
+<div class="top-bun"></div>
+<div class="patty"></div>
+<div class="bottom-bun"></div>
+</div>
+</div>
+</button>
+</div>
+
+<div class="header-title-nav-wrapper">
+
+<div class="header-nav">
+<div class="header-nav-wrapper">
+<nav class="header-nav-list">
+<div class="header-nav-item header-nav-item--collection header-nav-item--active">
+<a href="<?php echo $urlPath ?>" data-animation-role="header-element" aria-current="page">
+Store
+</a>
+</div>
+<div class="header-nav-item header-nav-item--collection">
+<a href="<?php echo $urlPath ?>" data-animation-role="header-element">
+All Prints
+</a>
+</div>
+<div class="header-nav-item header-nav-item--collection">
+<a href="<?php echo $urlPath ?>" data-animation-role="header-element">
+About
+</a>
+</div>
+</nav>
+</div>
+</div>
+
+<div class="
+                      header-title
+                      
+                    " data-animation-role="header-element">
+<div class="header-title-logo">
+<a href="<?php echo $urlPath ?>" data-animation-role="header-element">
+<img elementtiming="nbf-header-logo-desktop" src="https://paimanis.wordpress.com/wp-content/uploads/2025/02/slotgacor.gif" alt="<?php echo $BRANDS ?>" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+</a>
+</div>
+</div>
+</div>
+
+<div class="header-actions header-actions--right">
+<div class="showOnMobile">
+<div class="header-actions-action header-actions-action--cart">
+<a href="<?php echo $urlPath ?>" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+<span class="Cart-inner">
+<svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+<path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+<path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+<path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+</svg>
+<div class="icon-cart-quantity">
+<span class="cart-quantity-container">
+<span class="sqs-cart-quantity">0</span>
+</span>
+</div>
+</span>
+</a>
+</div>
+</div>
+<div class="showOnDesktop">
+<div class="header-actions-action header-actions-action--cart">
+<a href="<?php echo $urlPath ?>" class="cart-style-icon icon--stroke icon--fill icon--cart sqs-custom-cart  header-icon  show-empty-cart-state cart-quantity-zero header-icon-border-shape-none header-icon-border-style-outline">
+<span class="Cart-inner">
+<svg class="icon icon--cart" width="61" height="49" viewBox="0 0 61 49">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 2C0.5 1.17157 1.17157 0.5 2 0.5H13.6362C14.3878 0.5 15.0234 1.05632 15.123 1.80135L16.431 11.5916H59C59.5122 11.5916 59.989 11.8529 60.2645 12.2847C60.54 12.7165 60.5762 13.2591 60.3604 13.7236L50.182 35.632C49.9361 36.1614 49.4054 36.5 48.8217 36.5H18.0453C17.2937 36.5 16.6581 35.9437 16.5585 35.1987L12.3233 3.5H2C1.17157 3.5 0.5 2.82843 0.5 2ZM16.8319 14.5916L19.3582 33.5H47.8646L56.6491 14.5916H16.8319Z" />
+<path d="M18.589 35H49.7083L60 13H16L18.589 35Z" />
+<path d="M21 49C23.2091 49 25 47.2091 25 45C25 42.7909 23.2091 41 21 41C18.7909 41 17 42.7909 17 45C17 47.2091 18.7909 49 21 49Z" />
+<path d="M45 49C47.2091 49 49 47.2091 49 45C49 42.7909 47.2091 41 45 41C42.7909 41 41 42.7909 41 45C41 47.2091 42.7909 49 45 49Z" />
+</svg>
+<div class="icon-cart-quantity">
+<span class="cart-quantity-container">
+<span class="sqs-cart-quantity">0</span>
+</span>
+</div>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="header-menu header-menu--folder-list
+      
+      
+      
+      
+      
+      " data-section-theme data-current-styles="{
+
+                                                            &quot;layout&quot;: &quot;brandingCenter&quot;,
+                                                            &quot;action&quot;: {
+                                                              &quot;buttonText&quot;: &quot;Get Started&quot;,
+                                                              &quot;newWindow&quot;: false
+                                                            },
+                                                            &quot;showSocial&quot;: false,
+                                                            &quot;socialOptions&quot;: {
+                                                              &quot;socialBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;socialBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                                                            &quot;cartStyle&quot;: &quot;cart&quot;,
+                                                            &quot;cartText&quot;: &quot;Cart&quot;,
+                                                            &quot;showEmptyCartState&quot;: true,
+                                                            &quot;cartOptions&quot;: {
+                                                              &quot;iconType&quot;: &quot;solid-7&quot;,
+                                                              &quot;cartBorderShape&quot;: &quot;none&quot;,
+                                                              &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                                                              &quot;cartBorderThickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 1.0
+                                                              }
+                                                            },
+                                                            &quot;showButton&quot;: false,
+                                                            &quot;showCart&quot;: true,
+                                                            &quot;showAccountLogin&quot;: false,
+                                                            &quot;headerStyle&quot;: &quot;dynamic&quot;,
+                                                            &quot;languagePicker&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;iconEnabled&quot;: false,
+                                                              &quot;iconType&quot;: &quot;globe&quot;,
+                                                              &quot;flagShape&quot;: &quot;shiny&quot;,
+                                                              &quot;languageFlags&quot;: [ ]
+                                                            },
+                                                            &quot;mobileOptions&quot;: {
+                                                              &quot;layout&quot;: &quot;logoCenterNavLeft&quot;,
+                                                              &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                                                              &quot;menuIconOptions&quot;: {
+                                                                &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 1.0}
+                                                              }
+                                                            },
+                                                            &quot;dynamicOptions&quot;: {
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,&quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;solidOptions&quot;: {
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 100.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,
+                                                                &quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0
+                                                                },
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;gradientOptions&quot;: {
+                                                              &quot;gradientType&quot;: &quot;faded&quot;,
+                                                              &quot;headerOpacity&quot;: {
+                                                                &quot;unit&quot;: &quot;%&quot;,
+                                                                &quot;value&quot;: 90.0
+                                                              },
+                                                              &quot;border&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;position&quot;: &quot;allSides&quot;,&quot;thickness&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 4.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;dropShadow&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blur&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 30.0},
+                                                                &quot;spread&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;distance&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 0.0
+                                                                },
+                                                                &quot;color&quot;: {
+                                                                  &ququot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                  &quot;sitePaletteColor&quot;: {
+                                                                    &quot;colorName&quot;: &quot;black&quot;,
+                                                                    &quot;alphaModifier&quot;: 1.0
+                                                                  }
+                                                                }
+                                                              },
+                                                              &quot;blurBackground&quot;: {
+                                                                &quot;enabled&quot;: false,
+                                                                &quot;blurRadius&quot;: {
+                                                                  &quot;unit&quot;: &quot;px&quot;,
+                                                                  &quot;value&quot;: 12.0
+                                                                }
+                                                              },
+                                                              &quot;backgroundColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;white&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              },
+                                                              &quot;navigationColor&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;dropShadowOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blur&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              },
+                                                              &quot;spread&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 0.0
+                                                              },
+                                                              &quot;distance&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;borderOptions&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;position&quot;: &quot;allSides&quot;,
+                                                              &quot;thickness&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 4.0
+                                                              },
+                                                              &quot;color&quot;: {
+                                                                &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                                                                &quot;sitePaletteColor&quot;: {
+                                                                  &quot;colorName&quot;: &quot;black&quot;,
+                                                                  &quot;alphaModifier&quot;: 1.0
+                                                                }
+                                                              }
+                                                            },
+                                                            &quot;showPromotedElement&quot;: false,
+                                                            &quot;buttonVariant&quot;: &quot;primary&quot;,
+                                                            &quot;blurBackground&quot;: {
+                                                              &quot;enabled&quot;: false,
+                                                              &quot;blurRadius&quot;: {
+                                                                &quot;unit&quot;: &quot;px&quot;,
+                                                                &quot;value&quot;: 12.0
+                                                              }
+                                                            },
+                                                            &quot;headerOpacity&quot;: {
+                                                              &quot;unit&quot;: &quot;%&quot;,
+                                                              &quot;value&quot;: 100.0
+                                                            }
+                                                          }" data-section-id="overlay-nav" data-show-account-login="false" data-test="header-menu">
+<div class="header-menu-bg theme-bg--primary"></div>
+<div class="header-menu-nav">
+<nav class="header-menu-nav-list">
+<div data-folder="root" class="header-menu-nav-folder">
+<div class="header-menu-nav-folder-content">
+
+<div class="header-menu-nav-wrapper">
+<div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--active">
+<a href="<?php echo $urlPath ?>/store" aria-current="page">
+<div class="header-menu-nav-item-content">
+Store
+</div>
+</a>
+</div>
+<div class="container header-menu-nav-item header-menu-nav-item--collection">
+<a href="<?php echo $urlPath ?>/all-prints">
+<div class="header-menu-nav-item-content">All Prints
+</div>
+</a>
+</div>
+<div class="container header-menu-nav-item header-menu-nav-item--collection">
+<a href="<?php echo $urlPath ?>/about">
+<div class="header-menu-nav-item-content">
+About
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<main id="page" class="container" role="main">
+<article class="sections" id="sections" data-page-sections="65fd0fc2aa1d0858f5af2fe5">
+<section data-test="page-section" data-section-theme class="page-section 
+    
+      content-collection
+      full-bleed-section
+      collection-type-products
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    " data-section-id="65fd10856774354aafe184c6" data-controller="SectionWrapperController" data-current-styles="{
+                                                            &quot;imageOverlayOpacity&quot;: 0.15,
+                                                            &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                                                            &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+                                                            &quot;customSectionHeight&quot;: 10,
+                                                            &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                                                            &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+                                                            &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                                                            &quot;customContentWidth&quot;: 50,
+                                                            &quot;backgroundColor&quot;: &quot;&quot;,
+                                                            &quot;sectionTheme&quot;: &quot;&quot;,
+                                                            &quot;sectionAnimation&quot;: &quot;none&quot;,
+                                                            &quot;backgroundMode&quot;: &quot;image&quot;
+                                                          }" data-current-context="{
+                                                            &quot;video&quot;: null,
+                                                            &quot;backgroundImageId&quot;: null,
+                                                            &quot;backgroundMediaEffect&quot;: null,
+                                                            &quot;divider&quot;: null,
+                                                            &quot;typeName&quot;: &quot;products&quot;
+                                                          }" data-animation="none">
+<div class="section-border">
+<div class="section-background">
+</div>
+</div>
+<div class="content-wrapper" style="
+      
+      
+    ">
+<div class="content">
+<div class="n-columns-2">
+<a href="https://t.ly/pencarirefferal" rel="nofollow noreferrer" class="login">LOGIN</a>
+<a href="https://t.ly/pencarirefferal" rel="nofollow noreferrer" class="register">DAFTAR</a>
+</div>
+<section id="pdp" class="
+    products
+    collection-content-wrapper
+    product-layout-side-by-side
+  ">
+<article class="ProductItem hentry tag-togel-online tag-situs-toto tag-toto-togel author-situs-toto-togel-4D post-type-store-item" data-item-id="65fd0fc7db01f63c712f258e">
+<nav class="ProductItem-nav">
+<div class="ProductItem-nav-breadcrumb" data-animation-role="content">
+<a href="<?php echo $urlPath ?>/store" class="ProductItem-nav-breadcrumb-link">Store</a>
+<span class="ProductItem-nav-breadcrumb-separator"></span>
+<a href="<?php echo $urlPath ?>/store/p/zeus" class="ProductItem-nav-breadcrumb-link"><?php echo $BRANDS ?> Jual Beli Rumah Murah Di Indonesia</a>
+</div>
+</nav>
+<section class="ProductItem-summary" data-controller="ProductGallery">
+<section aria-label="Gallery" class="ProductItem-gallery" data-product-gallery="container">
+<div class="ProductItem-gallery-slides" data-animation-role="image" data-product-gallery="slides">
+<div class="ProductItem-gallery-slides-item" data-slide-index="1" data-image-id="65fd0fd62438744c9a05c86b" data-controller="ImageZoom" data-slide-url="zeus" data-product-gallery="slides-item" data-test="pdp-gallery-slide">
+<img aria-describedby="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" class="ProductItem-gallery-slides-item-1" data-load="false" data-src="https://iili.io/3aL7Mxt.png" data-image="https://iili.io/3aL7Mxt.png" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRANDS ?>" elementtiming="nbf-products-gallery" />
+<span id="ProductItem-gallery-slides-item-1-index-65fd0fd62438744c9a05c86b" style="display: none;">
+Image 1 of
+</span>
+<div class="product-image-zoom-duplicate" aria-hidden="true">
+<img data-load="false" data-src="https://iili.io/3aL7Mxt.png" data-image="https://iili.io/3aL7Mxt.png" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRANDS ?>" elementtiming="nbf-products-gallery-zoom" />
+</div>
+</div>
+<div class="gallery-lightbox-outer-wrapper" data-use-image-loader="true" data-controller="Lightbox">
+<div class="gallery-lightbox " data-section-theme>
+<div class="gallery-lightbox-background"></div>
+<div class="gallery-lightbox-header">
+<button class="gallery-lightbox-close-btn" aria-label="Close" data-close data-test="gallery-lightbox-close">
+<div class="gallery-lightbox-close-btn-icon">
+<svg viewBox="0 0 40 40">
+<path d="M4.3,35.7L35.7,4.3" />
+<path d="M4.3,4.3l31.4,31.4" />
+</svg>
+</div>
+</button>
+</div>
+<div class="gallery-lightbox-wrapper">
+<div class="gallery-lightbox-list">
+<figure class="gallery-lightbox-item" data-slide-url="zeus">
+<div class="gallery-lightbox-item-wrapper">
+<div class="gallery-lightbox-item-src">
+<div class="gallery-lightbox-item-img content-fit">
+<img data-src="https://iili.io/3aL7Mxt.png" data-image="https://iili.io/3aL7Mxt.png" data-image-dimensions="840x480" data-image-focal-point="0.5,0.5" alt="<?php echo $BRANDS ?>" data-load="false" elementtiming="nbf-product-lightbox" /></div>
+</div>
+</div>
+</figure>
+</div>
+<div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
+<div class="gallery-lightbox-control" data-previous data-test="gallery-lightbox-control-previous">
+<button class="gallery-lightbox-control-btn" aria-label="Previous Slide">
+<div class="gallery-lightbox-control-btn-icon">
+<svg class="caret-left-icon--small" viewBox="0 0 9 16">
+<polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 " />
+</svg>
+</div>
+</button>
+</div>
+<div class="gallery-lightbox-control" data-next data-test="gallery-lightbox-control-next">
+<button class="gallery-lightbox-control-btn" aria-label="Next Slide">
+<div class="gallery-lightbox-control-btn-icon">
+<svg class="caret-right-icon--small" viewBox="0 0 9 16">
+<polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 " />
+</svg>
+</div>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="
+    product-details
+    ProductItem-details
+  " data-test="pdp-details">
+<h1 class="ProductItem-details-title" data-content-field="title" data-test="pdp-title">
+<?php echo $BRANDS ?> Jual Beli Rumah Murah Di Indonesia
+</h1>
+<div data-controller="ProductItemVariants,ProductCartButton" class="ProductItem-details-checkout">
+<div class="ProductItem-product-price" data-animation-role="content">
+<div class="product-price">
+IDR 2500.00
+</div>
+<div data-afterpay="true" data-current-context="{
+                                                            &quot;65fd0fc7db01f63c712f258e&quot;: {
+                                                              &quot;scarcityEnabled&quot;: false,
+                                                              &quot;scarcityShownByDefault&quot;: false,
+                                                              &quot;afterPayAvailable&quot;: false,
+                                                              &quot;klarnaAvailable&quot;: false,
+                                                              &quot;shopperLanguage&quot;: &quot;en&quot;,
+                                                              &quot;afterPayMin&quot;: 0,
+                                                              &quot;afterPayMax&quot;: 0,
+                                                              &quot;klarnaMin&quot;: 0,
+                                                              &quot;klarnaMax&quot;: 0,
+                                                              &quot;mailingListSignUpEnabled&quot;: false,
+                                                              &quot;mailingListOptInByDefault&quot;: false
+                                                            }
+                                                          }"></div>
+<div class="pdp-overlay"></div>
+</div>
+<div class="ProductItem-details-excerpt" data-content-field="excerpt">
+<p>jual beli rumah murah se indonesia dengan aplikasi online <?php echo $BRANDS ?> </p>
+</div>
+<div class="product-quantity-input" data-item-id="65fd0fc7db01f63c712f258e" data-animation-role="content">
+<div class="quantity-label">Quantity:</div>
+<input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
+</div>
+<div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
+<a><div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-dynamic-strings data-collection-id="65fd0fc2aa1d0858f5af2fe4" data-item-id="65fd0fc7db01f63c712f258e" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart">
+<div class="sqs-add-to-cart-button-inner">Add To Cart</div>
+</div></a>
+</div>
+</div>
+</section>
+</section>
+</article>
+</section>
+</div>
+</div>
+</section>
+</article>
+</main>
+<script type="text/javascript">
+      const firstSection = document.querySelector('.page-section');
+      const header = document.querySelector('.header');
+      const mobileOverlayNav = document.querySelector('.header-menu');
+      const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
+      const headerHeight = header ? header.getBoundingClientRect().height : 0;
+      const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
+      const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
+      const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
+
+      if (firstSection) {
+        firstSection.style.paddingTop = headerHeight + 'px';
+      }
+      if (sectionBackground && isLayoutEngineSection) {
+        if (isFirstSectionInset) {
+          sectionBackground.style.top = headerHeight + 'px';
+        } else {
+          sectionBackground.style.top = '';
+        }
+      }
+      //# sourceURL=headerPositioning.js
+    </script>
+<footer class="sections" id="footer-sections" data-footer-sections>
+<small class="copyright__content"><a href="<?php echo $urlPath ?>" title="Toto Slot Online">Copyright ©2025 <?php echo $BRANDS ?> All Rights Reserved</a></small>
+</footer>
+</div>
+<script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.6c05f1e49429ba1d8919cf9e9cce7b3f.js" type="text/javascript"></script>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg">
+<symbol id="facebook-icon" viewBox="0 0 64 64">
+<path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z" />
+</symbol>
+<symbol id="facebook-mask" viewBox="0 0 64 64">
+<path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z" />
+</symbol>
+<symbol id="instagram-icon" viewBox="0 0 64 64">
+<path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z" />
+</symbol>
+<symbol id="instagram-mask" viewBox="0 0 64 64">
+<path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z" />
+</symbol>
+<symbol id="twitter-icon" viewBox="0 0 64 64">
+<path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z" />
+</symbol>
+<symbol id="twitter-mask" viewBox="0 0 64 64">
+<path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z" />
+</symbol>
+</svg>
+</body>
+</html>                                                                   
